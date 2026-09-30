@@ -1,0 +1,171 @@
+
+from dataclasses import dataclass, asdict
+import json
+from pathlib import Path
+
+
+@dataclass
+class CandidateProfile:
+    name: str
+    current_title: str
+    current_company: str
+    total_experience: str
+    location: str
+    preferred_locations: list[str]
+
+    education: str
+
+    core_skills: list[str]
+    automation_skills: list[str]
+    platform_skills: list[str]
+    development_skills: list[str]
+    data_skills: list[str]
+
+    current_experience: list[str]
+
+    known_constraints: list[str]
+
+    github: str
+    linkedin: str
+    portfolio: str
+
+    def to_dict(self):
+        return asdict(self)
+
+    def to_prompt_text(self):
+        return json.dumps(self.to_dict(), indent=2)
+
+
+PROFILE = CandidateProfile(
+    name="Priyank Saxena",
+
+    current_title="Software Engineer",
+    current_company="Workelevate",
+
+    total_experience="Approximately 3 years of professional experience",
+
+    location="India",
+
+    preferred_locations=[
+        "India",
+        "Bengaluru",
+        "Hyderabad",
+        "Pune",
+        "Noida",
+        "Delhi NCR",
+        "Remote India",
+        "International roles with visa sponsorship"
+    ],
+
+    education=(
+        "B.Tech in Computer Science and Engineering, "
+        "Dr. A.P.J. Abdul Kalam Technical University, 2019-2023, 78%"
+    ),
+
+    core_skills=[
+        "Python",
+        "PowerShell",
+        "Bash",
+        "C#",
+        "JavaScript",
+        "Shell scripting",
+        "Git",
+        "Linux",
+        "Windows",
+        "macOS",
+        "GenAI",
+        "Generative AI"
+    ],
+
+    automation_skills=[
+        "Python automation",
+        "PowerShell automation",
+        "Bash automation",
+        "Endpoint automation",
+        "Endpoint remediation",
+        "Troubleshooting automation",
+        "One-click troubleshooters",
+        "Silent installers",
+        "Scripting",
+        "Selenium",
+        "CLI automation",
+        "Playwrite"
+    ],
+
+    platform_skills=[
+        "Windows endpoint management",
+        "macOS remediation",
+        "Linux",
+        "Endpoint troubleshooting",
+        "System-level troubleshooting"
+    ],
+
+    development_skills=[
+        "Python",
+        "C#",
+        "JavaScript",
+        "Flask",
+        "HTML",
+        "CSS",
+        "Bootstrap",
+        "Postman",
+        "AI-Agents",
+        "Multi-Agents"
+    ],
+
+    data_skills=[
+        "Pandas",
+        "NumPy",
+        "Power BI",
+        "Data analytics",
+        "MySQL",
+        "MongoDB",
+        "Metadata-driven pipelines",
+        "Patch intelligence",
+        "Validation and reporting"
+    ],
+
+    current_experience=[
+        "Developed 100+ one-click endpoint troubleshooters.",
+        "Developed 50+ silent Windows installers.",
+        "Created 40+ macOS remediation solutions using Bash and CLI tooling.",
+        "Developed 20+ RCA-module automation troubleshooters.",
+        "Built metadata-driven patch intelligence, validation and reporting pipelines.",
+        "Worked on endpoint remediation and troubleshooting automation.",
+        "Performed technical services and data analysis for HP-DAAS PI for Lupin Limited.",
+        "Worked across Windows, macOS and Linux environments.",
+        "Used Python, PowerShell, Bash and C# for automation and scripting.",
+        "Used Selenium for browser automation.",
+        "Worked with Pandas and data-analysis tooling."
+    ],
+
+    known_constraints=[
+        "Do not claim CI/CD as professional career experience.",
+        "Do not invent technologies or experience that are not present in this profile.",
+        "Do not treat a keyword appearing in a job description as candidate experience.",
+        "Do not claim REST API development experience as a primary professional skill.",
+        "Automation should be treated as a core career positioning.",
+        "Windows, macOS and Linux should be treated as the supported operating-system scope.",
+        "Evaluate experience requirements explicitly.",
+        "Separate genuine matches from transferable skills.",
+        "A missing skill is not automatically a rejection unless it is a hard requirement.",
+        "Senior roles requiring substantially more experience should be flagged accordingly."
+    ],
+
+    github="https://github.com/PriyankV25",
+    linkedin="https://www.linkedin.com/in/priyanksaxenaps/",
+    portfolio="https://priyank-saxena-portfolio.onrender.com/"
+)
+
+
+def save_profile(path="groq_job_search/data/profile.json"):
+    output = Path(path)
+    output.parent.mkdir(parents=True, exist_ok=True)
+
+    with output.open("w", encoding="utf-8") as f:
+        json.dump(PROFILE.to_dict(), f, indent=2, ensure_ascii=False)
+
+
+if __name__ == "__main__":
+    save_profile()
+    print("Candidate profile saved.")

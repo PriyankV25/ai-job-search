@@ -1,0 +1,2120 @@
+[
+  {
+    "job": {
+      "id": "4419275747",
+      "title": "Python Automation Engineer – Intelligent Automation",
+      "company": "M&G India",
+      "location": "Pune Division, Maharashtra, India",
+      "date": "2026-09-20",
+      "url": "https://www.linkedin.com/jobs/view/4419275747",
+      "description": "About M&G India We are M&G India, the strategic innovation and digital hub for M&G. Established in 2003, we have offices in Mumbai and Pune. Our teams work closely with colleagues across the Group worldwide to drive transformation, build digital capability, and support sustainable growth. By leveraging technology, AI, automation, and process excellence, we bring new ways of thinking to improve outcomes for both customers and colleagues. Grounded in a vibrant culture with strong foundations, we are central to how M&G is transforming as a business. About M&G Our purpose is to give everyone real confidence to put their money to work. With a heritage dating back more than 175 years, we have a long history of innovation in savings and investments, combining asset management and insurance expertise to offer a wide range of solutions. Our two distinct operating segments, Asset Management and Life, work together to provide access to balanced, long-term investment and savings solutions. Through telling it like it is, owning it now, and moving it forward together with care and integrity; we are creating an exceptional place to work for exceptional talent. Job Title Python Automation Engineer – Intelligent Automation Grade 2C Level Manager/Expert Job Function Chief Technology Office – India Job Sub Function Intelligent Automation Reports to Lead – Intelligent Automation Location Pune Business Area M&G India (MGGS) Overall Job Purpose At M&G our purpose is to give everyone real confidence to put their money to work. As an international savings and investments business with roots stretching back more than 170 years, we offer a range of financial products and services through Asset Management, Life and Wealth. All three operating segments work together to deliver attractive financial outcomes for our clients, and superior shareholder returns. Through our behaviours of telling it like it is, owning it now, and moving it forward together with care and integrity; we are creating an exceptional place to work for exceptional talent. The Role: The Automation Engineer will play a key role within the Automation Centre of Excellence (CoE), contributing to M&G’s broader transformation agenda by designing, developing, and deploying automation solutions across business functions. The role empowers M&G’s India 2.0 ambition by enabling scalable digital capabilities, reducing operational friction, and enhancing customer and employee experience. Operating within a fast‑evolving transformation ecosystem, the Automation Engineer will collaborate closely with cross‑functional teams to understand business processes, convert them into efficient automated workflows, and continuously improve operational models through intelligent automation. This role is instrumental in building a robust digital workforce and supporting M&G’s vision of operational excellence, innovation, and future‑ready execution. Accountabilities/Responsibilities Key Responsibilities: Analyse business processes and identify automation opportunities using Python and TypeScript-based frameworks. Develop, test, and deploy automation workflows adhering to CoE best practices, governance, and security standards. Develop reusable automation scripts, utilities, APIs, and workflow components that improve operational efficiency. Ensure solutions are scalable, secure, maintainable, and aligned to enterprise architecture standards. Automate business processes, data integrations, reporting activities, and system interactions across enterprise applications. Create process documentation including requirement documents, Solution Design document, Test Plans, and deployment artefacts. Collaborate with business SMEs, Transformation stakeholders, and Technology teams to deliver automation solutions aligned to strategic objectives. Support Hypercare, production monitoring, and incident management for deployed scripts. Ensure compliance with regulatory standards, audit requirements, and information security principles. Apply problem‑solving and critical thinking to complex operational processes, recommending fit‑for‑purpose automation solutions. Participate in Automation CoE maturity initiatives such as reusable component libraries, coding standards, templates, and best practice frameworks. Transformation & CoE Contribution: Support the transformation agenda by driving efficiency improvement, process simplification, and digital capability enhancement. Contribute to continuous evolution of the Automation CoE through technical innovation, new platform adoption, and pilot use cases. Promote automation awareness, educate business teams, and enable a culture of digital thinking. Ensure alignment with M&G behaviours — Tell it like it is, Own it Now, Move it Forward Together (). Key Stakeholder Management Internal Project Sponsor & teams Business Transformation Teams Investment Teams Distributions Teams Change & Technology teams Leadership & Committees External Industry Network Third Party Business Partners Consultants FinTech Community Knowledge, Skills, Experience & Educational Qualification Knowledge & Skills: Technical Skills Strong hands‑on expertise (4–5 years) with Python scripting and automation development. Good working knowledge of TypeScript and modern development practices. Understanding of object-oriented programming, modular development, and software engineering best practices Experience with source control tools such as Git and collaborative development practices. Familiarity with Microsoft Azure services including Functions, Logic Apps, Storage, Key Vault, and API Management. Familiarity with version control, CI/CD concepts, and secure deployment practices. Understanding of cloud-native application development and deployment concepts. Process & Business Skills Experience in process mapping, requirement analysis, and converting business workflows into automation logic. Strong problem‑solving mindset, ability to deal with ambiguity, and apply critical thinking. Excellent communication skills to collaborate with cross‑functional stakeholders and present technical concepts clearly. Soft Skills & Behavioural Competencies High attention to detail and adherence to quality. Ability to work both independently and within cross‑functional teams. Strong stakeholder management across Technology, Business, and Transformation teams. Commitment to M&G values: care, integrity, ownership, transparency, collaboration. Experience: 4–5 years of hands‑on experience with Python scripting and TypeScript. Any Azure Automation and Azure Integration Services experience is a huge added advantage. Proven track record of delivering end‑to‑end automation solutions — analysis, build, testing, deployment & support. Experience working within an Automation CoE, digital transformation team, or GCC environment preferred. Exposure to process optimisation, continuous improvement, and automation pipeline management. Experience collaborating with SMEs, business teams, and technology partners in a global or matrix environment. Educational Qualification: Graduate in Engineering / Computer Science / Information Technology or related discipline. Relevant certifications preferred: Python-related certifications from recognized institutions Microsoft certifications (AZ-900, AZ-204) Relevant cloud, automation, or software engineering certifications is a plus. Note: *We are in Hybrid working with three days’ work from office (subject to policy change) We have a diverse workforce and an inclusive culture at M&G Global Services, regardless of gender, ethnicity, age, sexual orientation, nationality, disability or long term condition, we are looking to attract, promote and retain exceptional people. We also welcome those who take part in military service and those returning from career breaks.",
+      "source": "LinkedIn",
+      "work_mode": null,
+      "seniority": "Not Applicable",
+      "employment_type": "Full-time",
+      "job_function": "Engineering and Information Technology",
+      "industries": "Financial Services and Investment Management",
+      "is_active": true
+    },
+    "analysis": {
+      "match_score": 30,
+      "fit_level": "low",
+      "experience_fit": "Candidate has 3 years of experience, while the role requires 4–5 years of hands‑on Python scripting and automation.",
+      "location_fit": "Pune, Maharashtra, India – candidate is based in India and can potentially relocate to Pune.",
+      "work_mode": "Hybrid (as per job description); candidate’s work mode preference is not specified.",
+      "matching_skills": [
+        "Python",
+        "Git",
+        "Scripting (Python, PowerShell, Bash)",
+        "Endpoint automation",
+        "Troubleshooting automation",
+        "Windows, macOS, Linux",
+        "Selenium",
+        "Data analysis (Pandas, NumPy)",
+        "Process improvement (developed troubleshooters, installers, remediation solutions)"
+      ],
+      "transferable_skills": [
+        "C#",
+        "JavaScript",
+        "Shell scripting",
+        "CLI automation",
+        "Playwright",
+        "Metadata‑driven pipelines",
+        "Reporting",
+        "Collaboration across cross‑functional teams"
+      ],
+      "missing_skills": [
+        "TypeScript",
+        "Microsoft Azure services (Functions, Logic Apps, Storage, Key Vault, API Management)",
+        "CI/CD concepts and secure deployment practices",
+        "Cloud‑native application development",
+        "Process mapping and requirement analysis",
+        "Automation CoE experience",
+        "Azure certifications (AZ‑900, AZ‑204)",
+        "Experience with Azure Automation and Azure Integration Services"
+      ],
+      "hard_requirements": [
+        "4–5 years of hands‑on Python scripting and automation",
+        "TypeScript knowledge",
+        "Azure services familiarity",
+        "CI/CD and secure deployment practices",
+        "Process mapping and requirement analysis",
+        "Automation CoE or similar environment experience"
+      ],
+      "hard_requirement_gaps": [
+        "Python experience: 3 years (needs 4–5)",
+        "TypeScript: not present",
+        "Azure services: not present",
+        "CI/CD: not present",
+        "Process mapping: not explicitly documented",
+        "Automation CoE: not documented"
+      ],
+      "experience_requirement": "4–5 years of hands‑on Python scripting and automation",
+      "experience_gap": "Approximately 1–2 years short of the required experience level.",
+      "key_risks": [
+        "Insufficient years of Python automation experience",
+        "Lack of TypeScript and Azure platform knowledge",
+        "No documented CI/CD or secure deployment experience",
+        "No evidence of working within an Automation CoE or similar transformation environment",
+        "Potential mismatch in process mapping and requirement analysis skills"
+      ],
+      "why_it_matches": [
+        "Strong Python automation background with real‑world endpoint and remediation solutions",
+        "Experience with cross‑platform scripting (Windows, macOS, Linux)",
+        "Proficiency in Git and collaborative development practices",
+        "Demonstrated ability to design, develop, and deploy automation workflows",
+        "Data analysis skills that support reporting and validation tasks"
+      ],
+      "why_it_may_not_match": [
+        "Experience level below the 4–5 year requirement",
+        "Missing TypeScript expertise required for the role",
+        "No Azure services or cloud‑native deployment experience",
+        "No CI/CD or secure deployment practices documented",
+        "No explicit experience in an Automation CoE or similar environment"
+      ],
+      "application_priority": "low",
+      "summary": "The candidate has solid Python automation and cross‑platform scripting experience, but falls short on several hard requirements such as TypeScript, Azure services, CI/CD, and the required 4–5 years of experience. The role’s technical stack and experience expectations exceed the candidate’s current profile, resulting in a low fit score."
+    }
+  },
+  {
+    "job": {
+      "id": "4473218101",
+      "title": "MODULE LEAD - Python",
+      "company": "Happiest Minds Technologies",
+      "location": "Pune Division, Maharashtra, India",
+      "date": "2026-09-29",
+      "url": "https://www.linkedin.com/jobs/view/4473218101",
+      "description": "Job Title Software Automation Engineer Python Automation Experience Range - 5 to7 Years SMART9414_HM Role Summary Test Automation Engineer with experience in Python-based API and backend testing, PyTest, Playwright, CI/CD pipelines, and test management tools. Must-Have Skills Python API Testing Backend Testing PyTest Playwright GitHub Actions Azure DevOps Pipeline Zephyr JIRA Good-to-Have Skills MQTT and communication protocols Power, Energy, or IoT domains Azure Cloud Services Cybersecurity Testing and Automation AI for Test Automation",
+      "source": "LinkedIn",
+      "work_mode": null,
+      "seniority": "Not Applicable",
+      "employment_type": "Full-time",
+      "job_function": "Engineering and Information Technology",
+      "industries": "IT Services and IT Consulting",
+      "is_active": true
+    },
+    "analysis": {
+      "match_score": 25,
+      "fit_level": "low",
+      "experience_fit": "Below required",
+      "location_fit": "Yes",
+      "work_mode": "Unclear",
+      "matching_skills": [
+        "Python",
+        "PowerShell",
+        "Bash",
+        "C#",
+        "Selenium",
+        "Endpoint automation",
+        "Troubleshooting automation",
+        "Windows",
+        "macOS",
+        "Linux",
+        "Git",
+        "Scripting",
+        "Data analysis"
+      ],
+      "transferable_skills": [
+        "Automation mindset",
+        "Cross‑platform scripting",
+        "Version control",
+        "Data analytics"
+      ],
+      "missing_skills": [
+        "PyTest",
+        "Playwright",
+        "CI/CD pipelines",
+        "GitHub Actions",
+        "Azure DevOps Pipeline",
+        "Zephyr",
+        "JIRA",
+        "Python API testing",
+        "Backend testing",
+        "MQTT",
+        "Power/Energy/IoT domain knowledge",
+        "Azure Cloud Services",
+        "Cybersecurity testing",
+        "AI for Test Automation"
+      ],
+      "hard_requirements": [
+        "5-7 years of professional experience",
+        "Python API testing",
+        "Backend testing",
+        "PyTest",
+        "Playwright",
+        "CI/CD pipelines",
+        "GitHub Actions",
+        "Azure DevOps Pipeline",
+        "Zephyr",
+        "JIRA"
+      ],
+      "hard_requirement_gaps": [
+        "Experience years (3 vs 5-7)",
+        "Python API testing",
+        "Backend testing",
+        "PyTest",
+        "Playwright",
+        "CI/CD pipelines",
+        "GitHub Actions",
+        "Azure DevOps Pipeline",
+        "Zephyr",
+        "JIRA"
+      ],
+      "experience_requirement": "5-7 years",
+      "experience_gap": "2-4 years",
+      "key_risks": [
+        "Insufficient years of experience",
+        "Missing core testing tools and frameworks",
+        "No evidence of CI/CD or test management tool usage",
+        "Potential mismatch in domain knowledge (IoT, Azure, cybersecurity)"
+      ],
+      "why_it_matches": [
+        "Candidate is located in Pune, India, matching the job location",
+        "Strong background in Python and automation across Windows, macOS, and Linux",
+        "Experience with Selenium and scripting tools"
+      ],
+      "why_it_may_not_match": [
+        "Job requires 5-7 years of experience, candidate has ~3 years",
+        "No evidence of Python API or backend testing",
+        "No experience with PyTest, Playwright, CI/CD, GitHub Actions, Azure DevOps, Zephyr, or JIRA",
+        "Missing domain‑specific knowledge (IoT, Azure, cybersecurity)"
+      ],
+      "application_priority": "low",
+      "summary": "The candidate lacks the required years of experience and several critical technical skills (Python API testing, PyTest, Playwright, CI/CD, GitHub Actions, Azure DevOps, Zephyr, JIRA). While the location and general automation experience align, the hard requirements are not met, making this role a low priority match."
+    }
+  },
+  {
+    "job": {
+      "id": "4461097011",
+      "title": "Python Ansible Developer",
+      "company": "Capco",
+      "location": "Bengaluru, Karnataka, India",
+      "date": "2026-09-22",
+      "url": "https://www.linkedin.com/jobs/view/4461097011",
+      "description": "Job Title: Python Engineer About Us “Capco, a Wipro company, is a global technology and management consulting firm. Awarded with Consultancy of the year in the British Bank Award and has been ranked Top 100 Best Companies for Women in India 2022 by Avtar & Seramount . With our presence across 32 cities across globe, we support 100+ clients across banking, financial and Energy sectors. We are recognized for our deep transformation execution and delivery. WHY JOIN CAPCO? You will work on engaging projects with the largest international and local banks, insurance companies, payment service providers and other key players in the industry. The projects that will transform the financial services industry. MAKE AN IMPACT Innovative thinking, delivery excellence and thought leadership to help our clients transform their business. Together with our clients and industry partners, we deliver disruptive work that is changing energy and financial services. #BEYOURSELFATWORK Capco has a tolerant, open culture that values diversity, inclusivity, and creativity. CAREER ADVANCEMENT With no forced hierarchy at Capco, everyone has the opportunity to grow as we grow, taking their career into their own hands. DIVERSITY & INCLUSION We believe that diversity of people and perspective gives us a competitive advantage. Location Pune / Bangalore Experience 7 to 10 Years Job Summary We are seeking a highly skilled Python Engineer with hands-on experience in Ansible automation , REST API development/integration , and scripting for enterprise applications. The ideal candidate will be responsible for developing automation solutions, integrating systems, building scalable APIs, and supporting infrastructure automation initiatives. Key Responsibilities Design, develop, and maintain Python-based applications and automation frameworks. Develop, consume, and integrate RESTful APIs with internal and external systems. Create and manage Ansible playbooks, roles, and automation workflows for infrastructure and application deployment. Automate repetitive operational tasks and improve system efficiency through scripting. Collaborate with DevOps, Infrastructure, Cloud, and Development teams to streamline deployment processes. Troubleshoot and resolve issues related to automation, integrations, and application performance. Implement logging, monitoring, and error-handling mechanisms in automation solutions. Maintain technical documentation for scripts, APIs, and automation processes. Participate in code reviews and ensure adherence to coding standards and best practices. Required Skills Technical Skills Strong experience in Python programming. Hands-on experience with Ansible Automation Platform. Experience in developing and consuming REST APIs. Good understanding of API authentication mechanisms such as OAuth2, JWT, API Keys, and Basic Authentication. Knowledge of JSON, YAML, XML, and data parsing techniques. Experience with Git, GitHub/GitLab, and CI/CD pipelines. Understanding of Linux/Unix systems and Shell scripting. Experience with debugging, testing, and performance tuning. Preferred Skills Experience with cloud platforms such as Azure, AWS, or GCP. Knowledge of Docker and Kubernetes. Exposure to Terraform or Infrastructure as Code (IaC). Familiarity with Jenkins, Azure DevOps, or other deployment tools. Understanding of monitoring tools such as Splunk, Prometheus, Grafana, or ELK. Qualifications Bachelor's degree in Computer Science, Information Technology, Engineering, or related field. Relevant certifications in Python, Ansible, Cloud, or DevOps will be an added advantage. Desired Competencies Strong analytical and problem-solving skills. Excellent communication and stakeholder management abilities. Ability to work independently and in a collaborative environment. Quick learner with a passion for automation and process improvement. Nice to Have Experience in enterprise automation projects. Exposure to IT infrastructure automation and configuration management. Knowledge of Agile/Scrum methodologies. If you are keen to join us, you will be part of an organization that values your contributions, recognizes your potential, and provides ample opportunities for growth. For more information, visit www.capco.com. Follow us on Twitter, Facebook, LinkedIn, and YouTube.",
+      "source": "LinkedIn",
+      "work_mode": null,
+      "seniority": "Not Applicable",
+      "employment_type": "Full-time",
+      "job_function": "Engineering and Information Technology",
+      "industries": "Financial Services",
+      "is_active": true
+    },
+    "analysis": {
+      "match_score": 25,
+      "fit_level": "low",
+      "experience_fit": "Candidate has ~3 years of experience, while the role requires 7-10 years.",
+      "location_fit": "Yes – Bengaluru is within the candidate’s preferred locations.",
+      "work_mode": "Unclear (work_mode not specified in the posting).",
+      "matching_skills": [
+        "Python",
+        "Bash",
+        "PowerShell",
+        "Git",
+        "Linux",
+        "Windows",
+        "macOS",
+        "Scripting"
+      ],
+      "transferable_skills": [
+        "Automation (endpoint, troubleshooting, silent installers)",
+        "Selenium",
+        "Data analysis (Pandas, NumPy)",
+        "Endpoint remediation",
+        "System‑level troubleshooting"
+      ],
+      "missing_skills": [
+        "Ansible Automation Platform",
+        "REST API development / integration",
+        "CI/CD pipelines",
+        "Cloud platforms (Azure, AWS, GCP)",
+        "Docker",
+        "Kubernetes",
+        "Terraform / IaC",
+        "Monitoring tools (Splunk, Prometheus, Grafana, ELK)",
+        "OAuth2 / JWT / API authentication",
+        "JSON / YAML / XML parsing"
+      ],
+      "hard_requirements": [
+        "7-10 years of professional experience",
+        "Hands‑on Ansible automation",
+        "REST API development",
+        "CI/CD pipeline experience",
+        "Cloud platform experience",
+        "Docker/Kubernetes knowledge",
+        "Terraform/IaC experience",
+        "Monitoring tool familiarity"
+      ],
+      "hard_requirement_gaps": [
+        "Experience level (3 years vs 7-10 years)",
+        "Ansible",
+        "REST API development",
+        "CI/CD",
+        "Cloud platforms",
+        "Docker",
+        "Kubernetes",
+        "Terraform",
+        "Monitoring tools"
+      ],
+      "experience_requirement": "7-10 years",
+      "experience_gap": "4-7 years",
+      "key_risks": [
+        "Major experience gap relative to role requirements",
+        "Missing core technical skills (Ansible, REST APIs, CI/CD, cloud, containerization, IaC, monitoring)",
+        "Potential mismatch in required depth of automation expertise"
+      ],
+      "why_it_matches": [
+        "Strong Python and scripting background",
+        "Experience with Linux, Windows, macOS environments",
+        "Proven automation and endpoint remediation work",
+        "Git usage and version control familiarity"
+      ],
+      "why_it_may_not_match": [
+        "No evidence of Ansible or REST API development",
+        "No CI/CD pipeline experience",
+        "No cloud, Docker, Kubernetes, Terraform, or monitoring tool experience",
+        "Experience level below the minimum required"
+      ],
+      "application_priority": "low",
+      "summary": "The candidate’s profile demonstrates solid Python and automation skills but lacks the critical experience and technologies required for this Python Ansible Developer role, particularly the 7‑10 year experience, Ansible, REST API development, CI/CD, cloud, containerization, IaC, and monitoring expertise. The role is therefore a low fit."
+    }
+  },
+  {
+    "job": {
+      "id": "4469408947",
+      "title": "Python automation developer with DevOps",
+      "company": "Zorba AI",
+      "location": "Hyderabad, Telangana, India",
+      "date": "2026-09-23",
+      "url": "https://www.linkedin.com/jobs/view/4469408947",
+      "description": "Required Information Details 1 Role Name Python automation developer with DevOps 2 Technical Skill Set Required Strong Python programming and Python automation scripting exp, DevOps hands on exp, Jenkin, GIT, CI/CD concepts and pipeline design, large-scale SCM migrations in enterprise environments, Immediate joiners only 3 Required Total Experience Range 5 to 10 years 4 Relevant Exp. for Must-Have Skill 5 years 5 Location of Requirement Hyderabad, Immediate joiners only 6 Skill Set Keywords Python programming, Python automation scripting, DevOps, GIT Desired Competencies (Technical Competency) Must-Have Python development and Python automation scripting exp, DevOps hands on exp, Jenkin, GIT, CI/CD concepts and pipeline design, large-scale SCM migrations in enterprise environments Good-to-Have Familiarity with AIX/Linux, build systems, and LPP packaging Certifications Required S N Role descriptions / Expectations from the Role 1 Having hands on core and advance python programming skill 2 Having hands on exp in python automation scripting exp 3 Having hands on exp in CI/CD concepts and pipeline design Skills: devops,scripting,python,automation",
+      "source": "LinkedIn",
+      "work_mode": null,
+      "seniority": "Mid-Senior level",
+      "employment_type": "Full-time",
+      "job_function": "Quality Assurance",
+      "industries": "Business Consulting and Services",
+      "is_active": true
+    },
+    "analysis": {
+      "match_score": 30,
+      "fit_level": "low",
+      "experience_fit": "Candidate has 3 years of experience, required 5-10 years.",
+      "location_fit": "Hyderabad - candidate location includes Hyderabad.",
+      "work_mode": "Unclear",
+      "matching_skills": [
+        "Python",
+        "Python automation",
+        "GIT"
+      ],
+      "transferable_skills": [
+        "Bash",
+        "PowerShell",
+        "C#",
+        "Selenium",
+        "Endpoint automation",
+        "Troubleshooting automation",
+        "Windows",
+        "macOS",
+        "Linux",
+        "Scripting",
+        "Data analysis"
+      ],
+      "missing_skills": [
+        "Jenkins",
+        "CI/CD pipeline design",
+        "Large-scale SCM migrations",
+        "DevOps hands on experience"
+      ],
+      "hard_requirements": [
+        "5-10 years total experience",
+        "5 years Python automation scripting",
+        "DevOps hands on experience",
+        "Jenkins",
+        "GIT",
+        "CI/CD concepts and pipeline design",
+        "Large-scale SCM migrations"
+      ],
+      "hard_requirement_gaps": [
+        "5-10 years total experience",
+        "5 years Python automation scripting",
+        "DevOps hands on experience",
+        "Jenkins",
+        "CI/CD concepts and pipeline design",
+        "Large-scale SCM migrations"
+      ],
+      "experience_requirement": "5-10 years",
+      "experience_gap": "Candidate has 3 years, missing 2-5 years.",
+      "key_risks": [
+        "Experience mismatch",
+        "Missing Jenkins and CI/CD pipeline design",
+        "Missing large-scale SCM migrations experience",
+        "Immediate joiners only requirement"
+      ],
+      "why_it_matches": [
+        "Strong Python programming and automation experience",
+        "GIT experience",
+        "Automation focus aligns with role",
+        "Location Hyderabad matches job location"
+      ],
+      "why_it_may_not_match": [
+        "Insufficient overall experience years",
+        "No explicit Jenkins or CI/CD pipeline design experience",
+        "No documented large-scale SCM migrations",
+        "No explicit DevOps hands on experience",
+        "Immediate joiners requirement may not be met"
+      ],
+      "application_priority": "low",
+      "summary": "The candidate demonstrates solid Python automation and GIT skills and is located in Hyderabad, but lacks the required 5-10 years of experience, Jenkins, CI/CD pipeline design, and large-scale SCM migration expertise. The role is a low priority match."
+    }
+  },
+  {
+    "job": {
+      "id": "4461083952",
+      "title": "Python Ansible Developer",
+      "company": "Capco",
+      "location": "Greater Bengaluru Area",
+      "date": "2026-09-22",
+      "url": "https://www.linkedin.com/jobs/view/4461083952",
+      "description": "Location Pune / Bangalore Experience 7 to 12 Years Job Summary We are seeking a highly skilled Python Engineer with hands-on experience in Ansible automation , REST API development/integration , and scripting for enterprise applications. The ideal candidate will be responsible for developing automation solutions, integrating systems, building scalable APIs, and supporting infrastructure automation initiatives. Key Responsibilities Design, develop, and maintain Python-based applications and automation frameworks. Develop, consume, and integrate RESTful APIs with internal and external systems. Create and manage Ansible playbooks, roles, and automation workflows for infrastructure and application deployment. Automate repetitive operational tasks and improve system efficiency through scripting. Collaborate with DevOps, Infrastructure, Cloud, and Development teams to streamline deployment processes. Troubleshoot and resolve issues related to automation, integrations, and application performance. Implement logging, monitoring, and error-handling mechanisms in automation solutions. Maintain technical documentation for scripts, APIs, and automation processes. Participate in code reviews and ensure adherence to coding standards and best practices. Required Skills Technical Skills Strong experience in Python programming. Hands-on experience with Ansible Automation Platform. Experience in developing and consuming REST APIs. Good understanding of API authentication mechanisms such as OAuth2, JWT, API Keys, and Basic Authentication. Knowledge of JSON, YAML, XML, and data parsing techniques. Experience with Git, GitHub/GitLab, and CI/CD pipelines. Understanding of Linux/Unix systems and Shell scripting. Experience with debugging, testing, and performance tuning. Preferred Skills Experience with cloud platforms such as Azure, AWS, or GCP. Knowledge of Docker and Kubernetes. Exposure to Terraform or Infrastructure as Code (IaC). Familiarity with Jenkins, Azure DevOps, or other deployment tools. Understanding of monitoring tools such as Splunk, Prometheus, Grafana, or ELK. Qualifications Bachelor's degree in Computer Science, Information Technology, Engineering, or related field. Relevant certifications in Python, Ansible, Cloud, or DevOps will be an added advantage. Desired Competencies Strong analytical and problem-solving skills. Excellent communication and stakeholder management abilities. Ability to work independently and in a collaborative environment. Quick learner with a passion for automation and process improvement. Nice to Have Experience in enterprise automation projects. Exposure to IT infrastructure automation and configuration management. Knowledge of Agile/Scrum methodologies.",
+      "source": "LinkedIn",
+      "work_mode": null,
+      "seniority": "Not Applicable",
+      "employment_type": "Full-time",
+      "job_function": "Engineering and Information Technology",
+      "industries": "Financial Services",
+      "is_active": true
+    },
+    "analysis": {
+      "match_score": 20,
+      "fit_level": "low",
+      "experience_fit": "Candidate has 3 years of experience; role requires 7-12 years.",
+      "location_fit": "Candidate is based in India and can work remotely or relocate to Bengaluru; location is potentially acceptable.",
+      "work_mode": "Unspecified",
+      "matching_skills": [
+        "Python",
+        "Git",
+        "Linux",
+        "Shell scripting",
+        "Bash",
+        "PowerShell",
+        "Windows",
+        "macOS",
+        "Automation",
+        "Scripting"
+      ],
+      "transferable_skills": [
+        "Endpoint automation",
+        "Troubleshooting automation",
+        "Silent installers",
+        "Data analysis with Pandas",
+        "Selenium browser automation"
+      ],
+      "missing_skills": [
+        "Ansible automation platform",
+        "REST API development and integration",
+        "CI/CD pipeline experience",
+        "Cloud platforms (Azure, AWS, GCP)",
+        "Docker and Kubernetes",
+        "Terraform or IaC",
+        "Monitoring tools (Splunk, Prometheus, Grafana, ELK)",
+        "Advanced API authentication (OAuth2, JWT, etc.)"
+      ],
+      "hard_requirements": [
+        "7-12 years of professional experience",
+        "Hands‑on experience with Ansible Automation Platform",
+        "Experience developing and consuming REST APIs",
+        "Experience with CI/CD pipelines",
+        "Proficiency with Git",
+        "Linux/Unix systems knowledge",
+        "Shell scripting"
+      ],
+      "hard_requirement_gaps": [
+        "7-12 years of professional experience",
+        "Ansible Automation Platform",
+        "REST API development",
+        "CI/CD pipeline experience"
+      ],
+      "experience_requirement": "7-12 years of professional experience",
+      "experience_gap": "Candidate has approximately 3 years; missing 4-9 years of experience.",
+      "key_risks": [
+        "Significant experience mismatch",
+        "Missing core technical requirements (Ansible, REST APIs, CI/CD)",
+        "Potential lack of cloud and IaC knowledge",
+        "Uncertainty about work mode and relocation"
+      ],
+      "why_it_matches": [
+        "Strong Python programming background",
+        "Proficient in Git, Linux, and shell scripting",
+        "Extensive automation and scripting experience",
+        "Cross‑platform (Windows, macOS, Linux) expertise"
+      ],
+      "why_it_may_not_match": [
+        "Insufficient years of experience for senior role",
+        "No demonstrated Ansible or REST API development",
+        "No CI/CD pipeline experience",
+        "No cloud, container, or IaC exposure"
+      ],
+      "application_priority": "low",
+      "summary": "The candidate possesses solid Python and automation skills with cross‑platform scripting experience, but lacks the required 7‑12 years of experience and critical technical competencies such as Ansible, REST API development, CI/CD pipelines, and cloud/IaC knowledge. The role is a low fit for this candidate."
+    }
+  },
+  {
+    "job": {
+      "id": "4468591076",
+      "title": "Python Automation Engineer",
+      "company": "Persistent Systems",
+      "location": "Pune City, Maharashtra, India",
+      "date": "2026-09-22",
+      "url": "https://www.linkedin.com/jobs/view/4468591076",
+      "description": "About Position: We are seeking an experienced Test Automation Engineer who can Design, develop, and maintain scalable test automation frameworks using Selenium and Python. Role: Python Automation Engineer Location: All Persistent Locations Experience: 5 to 10 Years Job Type: Full-Time Employment What You'll Do: Design, develop, and maintain scalable test automation frameworks using Selenium and Python. Develop and execute automated test scripts for functional, regression, integration, and end-to-end testing. Create and maintain Playwright-based automation solutions for web applications. Integrate automated test suites into CI/CD pipelines. Collaborate with developers, QA teams, product owners, and business analysts to define test strategies. Analyze test results, identify defects, and support root cause analysis. Improve automation coverage, framework reusability, and framework efficiency. Support release validation, smoke testing, regression testing, and production verification activities. Create and maintain automation documentation, test plans, and execution reports. Participate actively in Agile ceremonies including sprint planning, stand-ups, retrospectives, and backlog reviews. Expertise You'll Bring: 5 to 8 years of experience in Software Testing and Test Automation. Strong hands-on experience in Selenium Automation Framework development. Excellent programming skills in Python. Mandatory hands-on experience with Playwright. Experience in Functional, Regression, Integration, and End-to-End Testing. Experience integrating automated tests with CI/CD pipelines. Knowledge of API Testing and Automation. Experience with defect tracking and test management tools. Familiarity with Git and version control systems. Strong understanding of Software Testing Life Cycle (STLC) and QA methodologies. Experience working in Agile/Scrum environments. Strong debugging, analytical, and problem-solving skills. Excellent communication and stakeholder management skills. Ability to work effectively with cross-functional teams. Benefits: Competitive salary and benefits package Culture focused on talent development with quarterly growth opportunities and company-sponsored higher education and certifications Opportunity to work with cutting-edge technologies Employee engagement initiatives such as project parties, flexible work hours, and Long Service awards Annual health check-ups Insurance coverage: group term life, personal accident, and Mediclaim hospitalization for self, spouse, two children, and parents Values-Driven, People-Centric & Inclusive Work Environment: Persistent is dedicated to fostering diversity and inclusion in the workplace. We invite applications from all qualified individuals, including those with disabilities, and regardless of gender or gender preference. We welcome diverse candidates from all backgrounds. We support hybrid work and flexible hours to fit diverse lifestyles. Our office is accessibility-friendly, with ergonomic setups and assistive technologies to support employees with physical disabilities. If you are a person with disabilities and have specific requirements, please inform us during the application process or at any time during your employment Let’s unleash your full potential at Persistent - persistent.com/careers “Persistent is an Equal Opportunity Employer and prohibits discrimination and harassment of any kind.”",
+      "source": "LinkedIn",
+      "work_mode": null,
+      "seniority": "Mid-Senior level",
+      "employment_type": "Full-time",
+      "job_function": "Engineering and Information Technology",
+      "industries": "IT Services and IT Consulting",
+      "is_active": true
+    },
+    "analysis": {
+      "match_score": 35,
+      "fit_level": "low",
+      "experience_fit": "Candidate has approximately 3 years of professional experience, while the role requires 5 to 10 years.",
+      "location_fit": "Candidate is based in India and lists Pune among preferred locations, but exact current location is not confirmed.",
+      "work_mode": "Unclear",
+      "matching_skills": [
+        "Python",
+        "Selenium",
+        "Playwright",
+        "Git",
+        "Bash",
+        "PowerShell",
+        "C#",
+        "Windows",
+        "macOS",
+        "Linux",
+        "scripting",
+        "automation"
+      ],
+      "transferable_skills": [
+        "debugging",
+        "problem solving",
+        "stakeholder communication",
+        "data analysis"
+      ],
+      "missing_skills": [
+        "CI/CD integration",
+        "API testing",
+        "defect tracking",
+        "test management tools",
+        "test strategy development",
+        "test documentation",
+        "test plans",
+        "execution reports",
+        "Agile/Scrum experience"
+      ],
+      "hard_requirements": [
+        "5 to 10 years of experience",
+        "5 to 8 years in Software Testing and Test Automation",
+        "Selenium Automation Framework development",
+        "Python programming",
+        "Playwright",
+        "CI/CD integration",
+        "API testing",
+        "defect tracking",
+        "test management tools",
+        "Git",
+        "Agile/Scrum",
+        "STLC knowledge"
+      ],
+      "hard_requirement_gaps": [
+        "Years of experience (candidate has ~3 years)",
+        "Test automation framework development experience",
+        "CI/CD integration",
+        "API testing",
+        "Defect tracking",
+        "Test management tools",
+        "Agile/Scrum experience"
+      ],
+      "experience_requirement": "5 to 10 years of professional experience",
+      "experience_gap": "Candidate has approximately 3 years, falling short by 2 to 7 years",
+      "key_risks": [
+        "Experience mismatch",
+        "Lack of formal test automation framework experience",
+        "No demonstrated CI/CD integration",
+        "No API testing experience",
+        "No defect tracking or test management tool usage",
+        "No explicit Agile/Scrum experience"
+      ],
+      "why_it_matches": [
+        "Strong Python, Selenium, and Playwright skills",
+        "Cross‑platform automation experience (Windows, macOS, Linux)",
+        "Git proficiency",
+        "Scripting and automation background",
+        "Experience with Selenium for browser automation"
+      ],
+      "why_it_may_not_match": [
+        "Insufficient years of experience",
+        "Missing formal test automation framework development",
+        "No CI/CD pipeline integration",
+        "No API testing or defect tracking experience",
+        "No documented Agile/Scrum participation"
+      ],
+      "application_priority": "low",
+      "summary": "The candidate possesses several core automation skills that align with the role, notably Python, Selenium, and Playwright, and has cross‑platform scripting experience. However, the role’s hard requirements—particularly the 5‑10 year experience threshold, formal test automation framework development, CI/CD integration, API testing, defect tracking, and Agile/Scrum experience—are not met. Consequently, the fit is low and the application priority is low."
+    }
+  },
+  {
+    "job": {
+      "id": "4441798214",
+      "title": "Advance Python Programming, Automation Frameworks",
+      "company": "Cognizant",
+      "location": "Bangalore Urban, Karnataka, India",
+      "date": "2026-09-22",
+      "url": "https://www.linkedin.com/jobs/view/4441798214",
+      "description": "Advance Python Programming, Automation Frameworks JD Automate common ServiceNow request workflows related to data platform access, onboarding, approvals, fulfilment, and operational requests. Build or enhance self-service applications that integrate with ServiceNow and raise requests on behalf of users. Develop automated backup scripts and scheduled jobs for platform components such as Databricks Unity Catalog/metastore, Dremio metadata, configuration, ADLS objects, and other platform assets. Build tested restore scripts and runbooks for Dremio metadata, Databricks views, catalog objects, platform configurations, and other recoverable assets. Support ADLS disaster recovery planning, backup validation, failover readiness, and recovery testing. Responsible for both development and strong expertise to debug and fix any post production issues Create reusable scripts, notebooks, templates, and automation patterns for Databricks workloads, views, jobs, and pipelines. Work with platform users to review and optimize Databricks pipelines, improve performance, reduce cost, and promote reusable engineering patterns. Develop and maintain Terraform modules for Azure/GCP infrastructure used by the data platform. Build and maintain CI/CD pipelines using GitHub Actions/GitHub runners for deploying infrastructure, scripts, configurations, and platform automation. Help reduce repetitive operational work by identifying automation opportunities and implementing robust, reusable solutions. Own automation tasks end-to-end, from requirements gathering through development, testing, deployment, and support handover. Leads: Role is 70% of time in Design, Architect, Coding and 30% of time in team mentoring, guidance, coordination Required Technical Skills: Strong scripting experience using Python, Bash, PowerShell, or similar languages. Ability to build production-ready automation scripts. Experience integrating with ServiceNow APIs, automating ticket creation, request fulfilment, approvals, and workflow-driven processes. Good working knowledge of Databricks workspaces, jobs, notebooks, clusters, SQL warehouses, Unity Catalog/metastore concepts, views, and pipeline optimization. Responsible for both development and strong expertise to debug and fix any post production issues for their developed code Experience or willingness to learn Dremio administration, metadata backup/restore, source configuration, reflections, spaces, folders, and operational support. Experience with Azure Data Lake Storage, storage accounts, RBAC, managed identities, private networking, and disaster recovery concepts. Ability to design, automate, test, and document backup and restore processes for data platform metadata, configurations, and platform assets. Strong Terraform knowledge, including module development, state management, variables, providers, workspaces, and reusable infrastructure patterns. Strong Azure experience required. Ability to work with REST APIs, authentication mechanisms, secrets, tokens, and service principals. Nice to have skills Azure DevOps, Azure Functions, Logic Apps, Key Vault, Event Grid, Automation Accounts. Delta Lake, Unity Catalog permissions, job orchestration, DLT, cluster policies, cost/performance optimization. Dremio REST APIs, reflection management, source automation, backup/restore testing, Kubernetes/AKS deployment knowledge. AKS/GKE experience, Helm, kubectl, YAML-based deployments.",
+      "source": "LinkedIn",
+      "work_mode": null,
+      "seniority": "Not Applicable",
+      "employment_type": "Full-time",
+      "job_function": "Engineering and Information Technology",
+      "industries": "IT Services and IT Consulting and Business Consulting and Services",
+      "is_active": true
+    },
+    "analysis": {
+      "match_score": 30,
+      "fit_level": "low",
+      "experience_fit": "Limited",
+      "location_fit": "Bangalore Urban, Karnataka, India",
+      "work_mode": "Unclear",
+      "matching_skills": [
+        "Python",
+        "PowerShell",
+        "Bash",
+        "Scripting"
+      ],
+      "transferable_skills": [
+        "Git",
+        "Linux",
+        "Windows",
+        "macOS",
+        "Automation",
+        "Endpoint remediation",
+        "Selenium"
+      ],
+      "missing_skills": [
+        "ServiceNow API integration",
+        "Databricks",
+        "Azure Data Lake Storage",
+        "Azure",
+        "Terraform",
+        "CI/CD pipelines with GitHub Actions",
+        "Azure DevOps",
+        "Azure Functions",
+        "Logic Apps",
+        "Key Vault",
+        "Event Grid",
+        "Dremio",
+        "Kubernetes/AKS",
+        "Helm",
+        "YAML deployments"
+      ],
+      "hard_requirements": [
+        "Strong Terraform knowledge",
+        "Strong Azure experience",
+        "Experience integrating with ServiceNow APIs",
+        "Experience with Azure Data Lake Storage, storage accounts, RBAC, managed identities, private networking, disaster recovery concepts",
+        "Ability to design, automate, test, and document backup and restore processes for data platform metadata, configurations, and platform assets",
+        "Strong scripting experience using Python, Bash, PowerShell"
+      ],
+      "hard_requirement_gaps": [
+        "Strong Terraform knowledge",
+        "Strong Azure experience",
+        "ServiceNow API integration",
+        "Databricks experience",
+        "Azure Data Lake Storage",
+        "Backup and restore process design",
+        "CI/CD pipeline development"
+      ],
+      "experience_requirement": "Advanced level",
+      "experience_gap": "Candidate has approximately 3 years of experience focused on endpoint automation and scripting, whereas the role requires advanced expertise in Azure, Terraform, ServiceNow integration, Databricks, and backup/restore automation.",
+      "key_risks": [
+        "Missing critical cloud and platform skills (Azure, Terraform, Databricks)",
+        "No experience with ServiceNow APIs",
+        "No CI/CD pipeline or infrastructure-as-code experience",
+        "Potential inability to meet backup and disaster recovery requirements"
+      ],
+      "why_it_matches": [
+        "Strong scripting skills in Python, PowerShell, and Bash",
+        "Extensive automation experience across Windows, macOS, and Linux",
+        "Proficiency with Git and cross-platform development",
+        "Experience building reusable automation scripts and troubleshooting tools"
+      ],
+      "why_it_may_not_match": [
+        "No experience with ServiceNow API integration",
+        "No experience with Databricks or Azure services",
+        "No Terraform or CI/CD pipeline development",
+        "No Azure Data Lake Storage or backup/restore process design",
+        "Job likely requires senior-level cloud and platform expertise"
+      ],
+      "application_priority": "low",
+      "summary": "Priyank Saxena brings solid scripting and automation experience in Python, PowerShell, and Bash, along with cross-platform expertise. However, the role demands advanced Azure, Terraform, ServiceNow, Databricks, and backup/restore skills that are not present in the candidate’s profile. The mismatch in critical platform and cloud competencies results in a low fit score and low application priority."
+    }
+  },
+  {
+    "job": {
+      "id": "4470124446",
+      "title": "Senior Python Engineer",
+      "company": "Thermo Fisher Scientific",
+      "location": "Bengaluru East, Karnataka, India",
+      "date": "2026-09-25",
+      "url": "https://www.linkedin.com/jobs/view/4470124446",
+      "description": "Work Schedule Standard (Mon-Fri) Environmental Conditions Office Ob Description When you join us at Thermo Fisher Scientific, you’ll become a member of a hard-working, motivated team that aligns with your enthusiasm for exploration and discovery. With revenues exceeding $40 billion and the largest investment in R&D in the industry, we provide our people with resources and opportunities to make significant contributions to the world. How Will You Make An Impact Work on backend platform software that powers advanced scientific instruments used in semiconductors, life sciences, and materials research. We are seeking a Python DevOps Engineer with 8–12 years of professional experience to develop secure, reliable automation frameworks based on Python, supported by PowerShell environments. This role supports enterprise build automation, Python packaging, SBOM integration, and secure artifact publishing within a regulated environment. The position operates at the intersection of Engineering, DevOps, and Security to ensure compliant, traceable, and reproducible software distribution. What Will You Do Design and implement scalable Python components, refactor them strategically. Ensure reliable error handling and propagation across scripting environments. Safeguard Code Quality, builds test strategy; enforces coverage gates Automate Python packaging and build artifact generation using PyPI and Conda standards. Ensure security, traceability, and compliance with distributed Python packages. Builds robust PowerShell scripts, including unittests (using Pester). Improving platform architecture and operational efficiency: rationalizing dependencies, modularizing components, improving observability and reducing technical debt and operational cost. Collaborate with Development and CI/CD teams to automate artifact publishing and enforce compliance standards. Maintain documentation and support troubleshooting of packaging and dependency workflows. On Cyber Security, perform security code reviews, threat awareness. Implements automated scanning (SCA, CVE monitoring); manages SBOM. Integrate secrets into CI/CD securely . Effectively contributes to planning and execution by delivering well-defined, traceable assignments, aligned with team objectives. Required Skills Strong Python development and PowerShell scripting expertise. Experience with Anaconda/Miniconda and conda package management. Experience in building automation and configuration file generation. Experience with Python packaging standards (pyproject.toml, conda-build, meta.yaml). Experience in Containerization using Docker. Experience implementing observability (monitoring, logging, alerting) to support reliability and operational excellence. Understanding SBOM concepts, software licensing, and vulnerability management. Strong troubleshooting skills and attention to detail. Drives DevSecOps outcomes through security-focused code reviews and threat awareness, automated scanning (SCA/CVE monitoring) with SBOM generation/management. Desirable Skills Experience in scientific, engineering, or highly regulated industries. Apply strong Python code quality practices for automation scripts, including linting (Pylint/Flake8) and static typing (mypy). Experience with CI/CD for python integration (preferably Jenkins) and artifact publishing workflows. Ensures secure CI/CD by integrating secrets safely, enforcing signed artifacts and hardened pipelines, and hardening base images to minimize attack surface. Ensures secure CI/CD by integrating secrets safely, enforcing signed artifacts and hardened pipelines, and hardening base images to minimize attack surface. Familiarity with Windows process management and scripting environments. Experience supporting enterprise software distribution. Exposure to Agentic AI concepts, including practical usage of GitHub Copilot (GHCP) or similar AI-assisted development tools to enhance automation, scripting, and developer productivity. Experience working in an agile environment like SAFe, using Jira. Preferred Qualifications BTech degree in Computer Science, Electronics, or a related technical field (or equivalent practical experience). Experience operating in regulated or security-focused environments require auditability and traceability.",
+      "source": "LinkedIn",
+      "work_mode": null,
+      "seniority": "Not Applicable",
+      "employment_type": "Full-time",
+      "job_function": "Research, Science, and Engineering",
+      "industries": "Pharmaceutical Manufacturing and Biotechnology Research",
+      "is_active": true
+    },
+    "analysis": {
+      "match_score": 20,
+      "fit_level": "low",
+      "experience_fit": "Candidate has approximately 3 years of professional experience, whereas the role requires 8–12 years.",
+      "location_fit": "Candidate is based in India and has expressed interest in Bengaluru, matching the job location.",
+      "work_mode": "Unclear from the job description; no explicit mention of remote or onsite.",
+      "matching_skills": [
+        "Python",
+        "PowerShell",
+        "Bash",
+        "Scripting",
+        "Automation",
+        "Windows",
+        "macOS",
+        "Linux",
+        "Cross‑platform development",
+        "BTech in Computer Science"
+      ],
+      "transferable_skills": [
+        "Endpoint automation and remediation",
+        "Troubleshooting automation",
+        "Selenium browser automation",
+        "Data analysis with Pandas",
+        "Git version control"
+      ],
+      "missing_skills": [
+        "Anaconda/Miniconda and conda package management",
+        "Docker containerization",
+        "SBOM generation and management",
+        "Security scanning (SCA, CVE monitoring)",
+        "Pester unit testing for PowerShell",
+        "CI/CD tooling (Jenkins, GitHub Actions, etc.)",
+        "Python packaging standards (pyproject.toml, conda‑build, meta.yaml)",
+        "Static typing (mypy), linting (Pylint/Flake8)",
+        "Observability (monitoring, logging, alerting)",
+        "Regulated or security‑focused environment experience",
+        "Agile/SAFe experience with Jira"
+      ],
+      "hard_requirements": [
+        "8–12 years of professional experience",
+        "Strong Python development and PowerShell scripting expertise",
+        "Experience with Anaconda/Miniconda and conda package management",
+        "Experience in building automation and configuration file generation",
+        "Experience with Python packaging standards (pyproject.toml, conda‑build, meta.yaml)",
+        "Experience in Containerization using Docker",
+        "Experience implementing observability (monitoring, logging, alerting)",
+        "Understanding SBOM concepts, software licensing, and vulnerability management",
+        "Strong troubleshooting skills and attention to detail",
+        "Experience supporting enterprise software distribution",
+        "BTech degree in Computer Science or equivalent",
+        "Experience operating in regulated or security‑focused environments"
+      ],
+      "hard_requirement_gaps": [
+        "Years of experience (candidate has ~3 years)",
+        "Anaconda/Miniconda and conda package management",
+        "Docker containerization",
+        "SBOM generation and management",
+        "Security scanning (SCA, CVE monitoring)",
+        "Pester unit testing",
+        "CI/CD tooling",
+        "Python packaging standards (pyproject.toml, conda‑build, meta.yaml)",
+        "Static typing and linting",
+        "Observability (monitoring, logging, alerting)",
+        "Regulated environment experience"
+      ],
+      "experience_requirement": "8–12 years of professional experience",
+      "experience_gap": "Candidate has approximately 3 years of experience, falling short by 5–9 years.",
+      "key_risks": [
+        "Significant experience gap",
+        "Missing critical technical requirements (conda, Docker, SBOM, security scanning)",
+        "Lack of CI/CD and DevSecOps tooling experience",
+        "No proven regulated environment background"
+      ],
+      "why_it_matches": [
+        "Proficient in Python and PowerShell scripting",
+        "Strong automation background across Windows, macOS, and Linux",
+        "BTech degree in Computer Science",
+        "Location alignment with Bengaluru"
+      ],
+      "why_it_may_not_match": [
+        "Insufficient years of experience for a senior role",
+        "No experience with conda, Docker, SBOM, or security scanning",
+        "No CI/CD or DevSecOps tooling experience",
+        "No regulated or security‑focused environment exposure"
+      ],
+      "application_priority": "low",
+      "summary": "The candidate demonstrates solid automation and scripting skills with a BTech background and is geographically aligned with the role. However, the role requires 8–12 years of experience and a suite of specialized DevSecOps, packaging, and containerization skills that the candidate does not possess. The major experience gap and missing technical competencies make this a low‑priority match."
+    }
+  },
+  {
+    "job": {
+      "id": "4471307745",
+      "title": "Forward Deployment Engineer (FDE) / Automation Engineer",
+      "company": "Infosys",
+      "location": "Hyderabad, Telangana, India",
+      "date": "2026-09-28",
+      "url": "https://www.linkedin.com/jobs/view/4471307745",
+      "description": "Automation Python Power Automate Ansible REST APIs Shell Scripting AI/Agentic Copilot Studio LangGraph Prompt Engineering LLM APIs AI Workflow Automation Python Software Engineering Git CI/CD Unit Testing Agile Delivery Cloud AWS Serverless Architecture API Gateway Consulting Skills Business process analysis Problem solving Communication Stakeholder engagement Key Responsibilities Solution Engineering Convert operational challenges into automation solutions. Build automation workflows using multiple platforms. Develop Agentic AI solutions. Design integrations with enterprise applications. Automation Development Develop Python-based automation frameworks. Build Ansible playbooks. Create Power Automate workflows. Develop reusable automation components. Agentic AI Development Build AI agents and workflows. Develop tool integrations. Create workflow orchestration solutions. Validate AI performance and outcomes. Deployment & Operations Support CI/CD pipelines. Deploy automation solutions. Conduct testing and UAT support. Monitor production deployments. Business Engagement Work directly with operations teams. Conduct process discovery. Validate requirements. Measure business outcomes. Required Skills Automation Python Power Automate Ansible REST APIs Shell Scripting AI/Agentic Copilot Studio LangGraph Prompt Engineering LLM APIs AI Workflow Automation Python Software Engineering Git CI/CD Unit Testing Agile Delivery Cloud AWS Serverless Architecture API Gateway Consulting Skills Business process analysis Problem solving Communication Stakeholder engagement Preferred Experience 7+ years software development Automation engineering experience AI implementation projects Enterprise integration experience",
+      "source": "LinkedIn",
+      "work_mode": null,
+      "seniority": "Not Applicable",
+      "employment_type": "Full-time",
+      "job_function": "Engineering and Information Technology",
+      "industries": "IT Services and IT Consulting",
+      "is_active": true
+    },
+    "analysis": {
+      "match_score": 20,
+      "fit_level": "low",
+      "experience_fit": "Candidate has ~3 years of experience, job requires 7+ years",
+      "location_fit": "Hyderabad, India – candidate located in India",
+      "work_mode": "Unclear",
+      "matching_skills": [
+        "Automation",
+        "Python",
+        "Shell Scripting",
+        "Git"
+      ],
+      "transferable_skills": [
+        "PowerShell",
+        "Bash",
+        "C#",
+        "Windows",
+        "macOS",
+        "Linux",
+        "AI-Agents",
+        "Multi-Agents",
+        "Selenium",
+        "Playwrite",
+        "Pandas",
+        "NumPy",
+        "Flask",
+        "Postman",
+        "Data Analytics",
+        "Metadata-driven Pipelines"
+      ],
+      "missing_skills": [
+        "Power Automate",
+        "Ansible",
+        "REST APIs",
+        "AI/Agentic Copilot Studio",
+        "LangGraph",
+        "Prompt Engineering",
+        "LLM APIs",
+        "AI Workflow Automation",
+        "Python Software Engineering",
+        "CI/CD",
+        "Unit Testing",
+        "Agile Delivery",
+        "Cloud AWS Serverless Architecture",
+        "API Gateway",
+        "Consulting Skills",
+        "Business Process Analysis",
+        "Problem Solving",
+        "Communication",
+        "Stakeholder Engagement"
+      ],
+      "hard_requirements": [
+        "7+ years software development",
+        "Automation engineering experience",
+        "AI implementation projects",
+        "Enterprise integration experience"
+      ],
+      "hard_requirement_gaps": [
+        "7+ years software development",
+        "AI implementation projects",
+        "Enterprise integration experience"
+      ],
+      "experience_requirement": "7+ years software development",
+      "experience_gap": "Candidate has approximately 3 years of experience, falling short by 4+ years",
+      "key_risks": [
+        "Significant experience gap relative to required 7+ years",
+        "Missing core technologies (Power Automate, Ansible, REST APIs, CI/CD, Cloud, API Gateway)",
+        "No documented AI implementation or enterprise integration projects",
+        "Potential lack of Agile, unit testing, and stakeholder engagement experience"
+      ],
+      "why_it_matches": [
+        "Strong automation background with Python, PowerShell, Bash, and C#",
+        "Cross-platform scripting experience on Windows, macOS, and Linux",
+        "Experience building reusable automation components and troubleshooting tools",
+        "Exposure to AI agents and multi-agent concepts",
+        "Data analysis skills with Pandas, NumPy, and metadata-driven pipelines"
+      ],
+      "why_it_may_not_match": [
+        "Does not meet the 7+ year experience requirement",
+        "Lacks key required tools such as Power Automate, Ansible, and REST API integration",
+        "No evidence of CI/CD pipeline development or deployment",
+        "No documented experience with AWS Serverless Architecture or API Gateway",
+        "No explicit experience in enterprise integration or large-scale AI implementation projects",
+        "Missing consulting, business process analysis, and stakeholder engagement experience"
+      ],
+      "application_priority": "low",
+      "summary": "Priyank Saxena brings solid automation expertise and cross-platform scripting skills, but the role demands a significantly higher level of experience and a broader technology stack—including Power Automate, Ansible, REST APIs, CI/CD, and cloud services—that the candidate does not currently possess. The mismatch in experience and missing core technologies places this opportunity at a low priority for application."
+    }
+  },
+  {
+    "job": {
+      "id": "4462862191",
+      "title": "Software Engineer: Python, Automation, Networking | 7+ Yrs | BLR",
+      "company": "Cisco",
+      "location": "Bengaluru, Karnataka, India",
+      "date": "2026-09-25",
+      "url": "https://www.linkedin.com/jobs/view/4462862191",
+      "description": "Meet The Team Develops software consistent with Cisco ‘Design Thinking Principles’ with a focus on simplification and UX (User Experience) at its core, using secure coding practices, ensuring user privacy, and following software development standard processes. Partners with other teams including design and product management to create the right solution for the customers. Creates technical design documentation to be used by the team as well as contributing to end users. Debugs and addresses software issues during development and in production systems to support customers. Brings new insights for product innovation and helps improve software development processes. Your Impact Develop and execute comprehensive test plans and cases for Cisco ACI features such as fabric deployment, management, monitoring, and automation Validate Cisco ACI fabric infrastructure, including leaf/spine topology, APIC controllers, and fabric initialization processes. Test integration with virtualization platforms (VMware vCenter, OpenShift, Kubernetes) and container networking interfaces. Ensure quality of automation workflows and APIs (RESTful API, CobraSDK) used for fabric programmability. Collaborate with development and product teams to improve test automation frameworks and infrastructure as code practices. Understands project and/or department needs and establishes relationships with appropriate multi-functional partners to capture input, collect information and complete work steps. May lead projects from end-to-end through delegation, review, and getting results holistically. May lead medium features from technical design through completion. Identifies and recommends improvements to the software development lifecycle and standard processes in agile engineering. Leads delivery of high-quality design of features and work you're doing. Finds opportunities for multiple products to work together to develop value for customers. Integrates product sense as it relates to design of the product (market awareness, production adoption, competition) and tracks related metrics. Tests and reviews code to optimize scale, velocity, and reliability of work you're doing. Expert on multiple functional components. Shares knowledge across teams, both informally and formally (e.g., ad-hoc basis, internal presentations, blogs, newsletters). Coordinates across teams to estimate times and complete projects according to specification and user requirements. Tracks breakthroughs, progress and provides ongoing updates and remediation plans multi-functionalnal partners. Minimum Qualifications Bachelors + 7 years OR Masters + 4 years OR PhD + 1 year of related experience. Requires solid conceptual and practical knowledge in Networking products; has worked with a range of technologies. Experience with data center networking protocols and technologies (VXLAN, MP-BGP EVPN, L2/L3 connectivity). Experience with automation tools and scripting languages (Python, REST APIs) Ability to analyze and troubleshoot complex network and software issues. Experience with test automation frameworks and continuous integration processes. Preferred Qualifications Familiarity with AI-powered infrastructure automation and infrastructure as code concepts applied to Datacenter products Why Cisco? At Cisco, we’re revolutionizing how data and infrastructure connect and protect organizations in the AI era – and beyond. We’ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint. Fueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you’ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere. We are Cisco, and our power starts with you. Disclaimer About To ensure that we hire the best talent in the right way, we follow a strict hiring process and recently, Cisco has been made aware of fraudulent recruiters claiming to be from the company. Please be advised that any communication from Cisco about careers will: be in direct response to an application you have submitted through the company career site begin with screening or an interview originate from a Cisco email address, and be conducted across email, phone, or WebEx Cisco will never make a job offer without conducting an interview process or ask you for money in any way. If you have been requested to apply for a role or have received an offer from a site other than https://careers.cisco.com or cisco.wd5.myworkday.com, do not provide any personal identifying information, including your Aadhaar or other personal identifying number, birth certificate, banking information, driver's license, or passport. If you are the target of a recruiting scam, consider filing a report with your local law enforcement authorities. Cisco bears no responsibility, and cannot be held liable, for any claims, damages, expenses, or other inconvenience resulting from or in any way connected to recruiting scams.",
+      "source": "LinkedIn",
+      "work_mode": null,
+      "seniority": "Not Applicable",
+      "employment_type": "Full-time",
+      "job_function": "Engineering and Information Technology",
+      "industries": "Software Development",
+      "is_active": true
+    },
+    "analysis": {
+      "match_score": 25,
+      "fit_level": "low",
+      "experience_fit": "Candidate has approximately 3 years of professional experience, whereas the role requires 7+ years of experience or 4 years with a Master’s degree (or 1 year with a PhD).",
+      "location_fit": "Bengaluru, Karnataka, India – matches candidate’s preferred location.",
+      "work_mode": "Unclear (work_mode is null in the job posting).",
+      "matching_skills": [
+        "Python",
+        "Bash",
+        "PowerShell",
+        "C#",
+        "Selenium",
+        "Endpoint automation",
+        "Scripting",
+        "Linux",
+        "Windows",
+        "macOS"
+      ],
+      "transferable_skills": [
+        "Data analysis (Pandas, NumPy)",
+        "Power BI",
+        "MySQL",
+        "MongoDB",
+        "Metadata-driven pipelines",
+        "Patch intelligence",
+        "Validation and reporting"
+      ],
+      "missing_skills": [
+        "Networking protocols (VXLAN, MP-BGP EVPN, L2/L3 connectivity)",
+        "REST API development",
+        "Test automation frameworks",
+        "Continuous Integration/Continuous Deployment (CI/CD) processes",
+        "Infrastructure as Code (IaC) concepts",
+        "Virtualization platforms (VMware vCenter, OpenShift, Kubernetes)",
+        "CobraSDK",
+        "AI‑powered infrastructure automation"
+      ],
+      "hard_requirements": [
+        "Bachelor’s degree + 7 years of experience OR Master’s degree + 4 years of experience OR PhD + 1 year of related experience",
+        "Solid conceptual and practical knowledge in networking products",
+        "Experience with data center networking protocols (VXLAN, MP-BGP EVPN, L2/L3)",
+        "Experience with automation tools and scripting languages (Python, REST APIs)",
+        "Experience with test automation frameworks",
+        "Experience with CI/CD processes"
+      ],
+      "hard_requirement_gaps": [
+        "Years of experience (3 years vs required 7+ or 4+ with Masters)",
+        "Networking protocol knowledge",
+        "REST API experience",
+        "Test automation framework experience",
+        "CI/CD experience"
+      ],
+      "experience_requirement": "Bachelor’s + 7 years OR Master’s + 4 years OR PhD + 1 year of related experience",
+      "experience_gap": "Approximately 4–7 years of experience missing, depending on degree path.",
+      "key_risks": [
+        "Major experience gap relative to role requirements",
+        "Lack of networking protocol expertise",
+        "No REST API or CI/CD experience",
+        "Missing test automation framework knowledge"
+      ],
+      "why_it_matches": [
+        "Strong automation background with Python, PowerShell, Bash, and C#",
+        "Cross‑platform scripting experience (Windows, macOS, Linux)",
+        "Experience with Selenium for browser automation",
+        "Endpoint remediation and troubleshooting automation",
+        "Data analysis and pipeline development skills"
+      ],
+      "why_it_may_not_match": [
+        "Insufficient years of experience for a senior engineering role",
+        "No demonstrated networking or data center protocol knowledge",
+        "No REST API or CI/CD experience",
+        "No experience with virtualization platforms or IaC",
+        "Missing test automation framework expertise"
+      ],
+      "application_priority": "low",
+      "summary": "The candidate’s skill set aligns with automation and scripting but falls short on the critical networking, REST API, CI/CD, and experience requirements for this senior Software Engineer role at Cisco. The experience gap and missing domain knowledge make this a low‑priority match."
+    }
+  },
+  {
+    "job": {
+      "id": "automation-software-engineer-python-pytest-sequoiaat-opysr573",
+      "title": "Automation Software Engineer - Python Pytest",
+      "company": "sequoiaat",
+      "location": "Tamil Nadu, Chennai, India",
+      "date": "2026-09-30T05:07:23Z",
+      "url": "https://sequoiaat.freshteam.com/jobs/XUzaB5-SnZml/automation-software-engineer-python-pytest?utm_source=freehire.me",
+      "description": "This is not a traditional QA role. We are seeking skilled software developers with strong Python expertise and a deep understanding of software engineering principles to design and implement robust automation frameworks and tools. The role focuses on engineering solutions to replace repetitive manual testing workflows, leveraging advanced Python capabilities and test automation best practices.\n\n### Responsibilities\n\n- **Develop, enhance, and maintain test automation frameworks** for complex systems, with a strong focus on **pytest** to create modular, reusable, and scalable automated test solutions.\n- **Automate end-to-end testing** of APIs, databases, and system integrations, using **pytest fixtures** to efficiently manage test setup and teardown, and **hooks** to customize test execution behavior.\n- **Implement advanced Python automation techniques** using tools like decorators to enhance test functions or add extra functionality, **context managers** for clean resource management (e.g., opening/closing connections), and **iterators** for controlling test data flows.\n- Collaborate with development and product teams to ensure that **automation solutions align** with specifications and deliverables.\n- Utilize **pytest parametrization** to efficiently run tests with different input sets and edge cases, enhancing test coverage and reducing redundancy.\n- **Work with CI/CD pipelines** to integrate automated tests into the development pipeline using tools like Jenkins or GitHub Actions, ensuring that all tests are continuously run with every change.\n- Troubleshoot and debug automation frameworks, addressing issues related to Python concurrency (e.g., **asyncio** or **threading**) and **exception handling**.\n- Continuously improve test strategies and workflows, ensuring that automation remains efficient, maintainable, and easy to extend.\n\n### Qualifications\n\n- Bachelor's degree in computer science, Software Engineering, or a related field.\n- 5+ years of hands-on software development experience, with a strong emphasis on **Python**.\n- Proficiency in **pytest**, including the creation and management of **fixtures** and **hooks**, and advanced features like **parametrization** for efficient test execution.\n- Deep understanding of **Python's advanced features**, such as:\n- **Decorators**: Creating reusable patterns for modifying or enhancing functions or methods.\n- **Context Managers**: Efficient resource management using the with statement.\n- **Iterators**: Implementing and using custom iterators to iterate over complex data structures or handle resource management during tests.\n- **Inheritance**: Utilizing different types of inheritance to create a flexible and maintainable test framework.\n- **Exception Handling**: Properly managing test failures and exceptions with custom handlers, ensuring tests remain resilient.\n- **Generators**: Using generators to handle large sets of data efficiently during test execution.\n- Experience with **REST API testing**, **JSON schema validation**, and **HTTP protocols**.\n- Solid understanding of **RDBMS concepts** (preferably MySQL) and writing/optimizing queries for test data validation.\n- Experience with version control systems (e.g., Git) and CI/CD tools (e.g., Jenkins, GitHub Actions).\n- Strong problem-solving and debugging skills.\n- Ability to work effectively in a **collaborative, Agile development environment**.\n\n### Preferred Skills\n\n- Experience with **Python concurrency** (e.g., asyncio, threading) to write high-performance, non-blocking test solutions.\n- Familiarity with cloud platforms (e.g., **AWS**) and related tools like **CloudWatch** for monitoring and debugging test environments.\n- Experience working with containerized environments (e.g., **Docker**) and testing distributed systems effectively.",
+      "source": "FreeHire",
+      "work_mode": null,
+      "skills": [
+        "agile",
+        "api",
+        "automation",
+        "aws",
+        "ci-cd",
+        "cloud",
+        "cloudwatch",
+        "distributed-systems",
+        "docker",
+        "git",
+        "github",
+        "github-actions",
+        "jenkins",
+        "json",
+        "mysql",
+        "pytest",
+        "python",
+        "rdbms",
+        "rest",
+        "test-automation",
+        "version-control"
+      ]
+    },
+    "analysis": {
+      "match_score": 30,
+      "fit_level": "low",
+      "experience_fit": "Candidate has approximately 3 years of professional experience, while the role requires 5+ years.",
+      "location_fit": "Candidate is based in India, which aligns with the India location requirement, but Chennai is not explicitly listed in preferred locations.",
+      "work_mode": "Unclear",
+      "matching_skills": [
+        "Python",
+        "Git",
+        "MySQL",
+        "Automation",
+        "Scripting",
+        "Data analysis",
+        "Endpoint remediation",
+        "Selenium"
+      ],
+      "transferable_skills": [
+        "PowerShell",
+        "Bash",
+        "C#",
+        "Windows",
+        "macOS",
+        "Linux",
+        "Pandas",
+        "NumPy",
+        "Power BI",
+        "Metadata-driven pipelines",
+        "Endpoint troubleshooting"
+      ],
+      "missing_skills": [
+        "pytest",
+        "pytest fixtures",
+        "pytest hooks",
+        "pytest parametrization",
+        "decorators",
+        "context managers",
+        "iterators",
+        "inheritance",
+        "generators",
+        "exception handling",
+        "REST API testing",
+        "JSON schema validation",
+        "HTTP protocols",
+        "asyncio",
+        "threading",
+        "Docker",
+        "AWS",
+        "CloudWatch",
+        "CI/CD tools (Jenkins, GitHub Actions)",
+        "distributed systems testing"
+      ],
+      "hard_requirements": [
+        "Bachelor's degree in Computer Science or related field",
+        "5+ years of hands‑on software development experience",
+        "Strong emphasis on Python",
+        "Proficiency in pytest (fixtures, hooks, parametrization)",
+        "Advanced Python features (decorators, context managers, iterators, inheritance, generators, exception handling)",
+        "REST API testing experience",
+        "RDBMS knowledge (preferably MySQL)",
+        "Version control (Git)",
+        "CI/CD experience (Jenkins, GitHub Actions)",
+        "Agile development environment"
+      ],
+      "hard_requirement_gaps": [
+        "Experience: 3 years vs. required 5+ years",
+        "pytest proficiency",
+        "Advanced Python features",
+        "REST API testing",
+        "Docker",
+        "AWS",
+        "CloudWatch",
+        "CI/CD tools"
+      ],
+      "experience_requirement": "5+ years of hands‑on software development experience, strong emphasis on Python.",
+      "experience_gap": "Candidate has approximately 3 years of experience, which is 2 years short of the required 5+ years.",
+      "key_risks": [
+        "Insufficient overall experience for the role",
+        "Missing core technical skills (pytest, advanced Python, REST API testing)",
+        "No demonstrated CI/CD or containerization experience",
+        "No cloud platform experience (AWS, CloudWatch)",
+        "Potential mismatch in test framework design and maintenance responsibilities"
+      ],
+      "why_it_matches": [
+        "Strong Python programming foundation",
+        "Experience with Git and version control",
+        "Proficiency in MySQL and other RDBMS",
+        "Automation expertise across Windows, macOS, and Linux",
+        "Data analysis skills using Pandas and NumPy",
+        "Experience building reusable automation modules"
+      ],
+      "why_it_may_not_match": [
+        "Lack of pytest experience and related advanced features",
+        "No evidence of REST API testing or JSON schema validation",
+        "No experience with Docker, AWS, or CloudWatch",
+        "No CI/CD pipeline integration experience",
+        "Experience level below the 5+ year requirement"
+      ],
+      "application_priority": "low",
+      "summary": "The candidate demonstrates solid Python automation and scripting skills, with experience in Git, MySQL, and cross‑platform automation. However, the role demands advanced pytest expertise, REST API testing, Docker, AWS, and CI/CD experience, along with a minimum of 5 years of software development experience. These gaps result in a low fit score and a low application priority."
+    }
+  },
+  {
+    "job": {
+      "id": "senior-qa-automation-engineer-with-python-and-stc-luxoft-4f5qxgam",
+      "title": "Senior QA Automation Engineer with Python and STC",
+      "company": "Luxoft",
+      "location": null,
+      "date": "2026-09-30T09:06:27Z",
+      "url": "https://career.luxoft.com/jobs/senior-qa-automation-engineer-with-python-and-stc-27949?utm_source=freehire.me",
+      "description": "Project description\n\nProject Description: Product verification & testing for an L1-L3 Traffic Generator Solution for a Global Networking Testing and Validation equipment provider. Our team: A team of networking enthusiasts willing to contribute to customer success. Technologies used: Networking protocols, traffic generation tools, Windows/Linux servers, network virtualization, network management tools, microservices. Opportunities: Networking and testing certifications, collaboration with an international team of professionals, working with the latest networking technologies and concepts, access to training.\n\nResponsibilities\n\n- o Design, implement and maintain long-running automated test scenarios (soak tests spanning days/weeks) using Spirent TestCenter APIs, covering performance, scalability, convergence, and protocol stability under sustained traffic load. o Derive automation requirements from manual functional test specifications and hardware validation reports o Collaborate with development team to translate software requirements into high-quality test automation suites o Develop automation for the end-to-end solution validation and integrate the automation for seamless validation. o Implement, execute and debug Python automated test scripts on Linux-based platforms o Analyze and manage automated regression test execution failures o Debug and troubleshoot complex issues and work closely with the engineering team on the failures and validate the fixes o Integrate test suites into CI/CD pipelines o Collaborate closely with hardware and software development teams to triage test failures and drive quality improvements o Reproduce and root-cause hardware/firmware defects through systematic test isolation o Make use of AI tooling (e.g. Claude Code, agentic AI) given customer-specific heavy usage patterns. o Review customer deployments and customer-found issues and address any gaps in the test coverage.\n\nSKILLS\n\nMust have\n\n- o Overall QA background of 6+ years, with 4+ years in testing networking domain-related applications. o QA Automation experience in an Agile/SCRUM team, focused on API and/or CLI testing (4+ years); Python strongly preferred (other comparable languages considered). o Automated Testing for API or CLI 4+ years, including experience in test harness or framework development. o Hands-on experience automating Spirent TestCenter (STC) using its Python API — specifically StcPython native API, the REST-based stcrestclient library (py-stcrestclient), or HLTAPI (High Level Test API); ability to script traffic port configuration, device emulation, traffic stream setup, result subscription and statistics retrieval. o Familiarity with STC Lab Server architecture: connecting to chassis, managing test sessions, and executing automated sequences without GUI dependency. o Experience writing and maintaining long-running automation suites (soak tests of days/weeks duration) with robust result collection, error handling, and reporting. o Working knowledge of L2/L3 protocols exercised through STC: Ethernet, VLAN/QinQ, BGP (v4/v6), OSPF (v2/v3), IS-IS, MPLS/LDP, BFD, and data-center protocols such as VXLAN and EVPN; ability to configure emulated/simulated router topologies for scale and convergence testing. o Familiarity with RFC 2544 / RFC 2889 benchmarking methodology for throughput, latency, frame loss and back-to-back testing. o Practical experience with AI tooling in day-to-day activities to improve productivity and delivery quality (code generation, code review, automation, agentic AI, MCP usage, etc.). o Experience in performance, scale, and convergence testing; ability to analyze and improve performance and convergence at system level. o Ability to develop and publish solution validation documents and test reports. o Strong verbal and written communication skills; able to communicate effectively across QA and Development teams. o Highly motivated, self-driven, and able to collaborate cross-functionally to meet challenging goals.\n\nNice to have\n\no Knowledge Linux OS variants (Ubuntu, Debian). o CI/CD (Jenkins, GitLab, or similar) and issue tracking tools (JIRA, Confluence). o Knowledge of STC Tcl API or legacy Tcl/HLTAPI scripting (useful for migrating existing test suites to Python). o Familiarity with additional traffic generation or network testing tools (e.g., IXIA/Keysight, Wireshark, Iperf).",
+      "source": "FreeHire",
+      "work_mode": null,
+      "skills": [
+        "agentic-ai",
+        "agile",
+        "ai",
+        "api",
+        "automation",
+        "bgp",
+        "ci-cd",
+        "claude-code",
+        "cli",
+        "confluence",
+        "ethernet",
+        "firmware",
+        "gitlab",
+        "jenkins",
+        "jira",
+        "linux",
+        "mcp",
+        "microservices",
+        "mpls",
+        "networking",
+        "ospf",
+        "python",
+        "scrum",
+        "statistics",
+        "tcl",
+        "test-automation",
+        "ubuntu",
+        "virtualization",
+        "vlan",
+        "vxlan",
+        "wireshark"
+      ]
+    },
+    "analysis": {
+      "match_score": 20,
+      "fit_level": "low",
+      "experience_fit": "Candidate has 3 years of professional experience, whereas the role requires 6+ years overall QA experience and 4+ years in networking domain and QA automation.",
+      "location_fit": "Unclear – job location is not specified; candidate is based in India.",
+      "work_mode": "Unclear – work mode is not specified.",
+      "matching_skills": [
+        "Python",
+        "Bash",
+        "PowerShell",
+        "C#",
+        "Linux",
+        "Windows",
+        "macOS",
+        "Scripting",
+        "Selenium",
+        "Data analysis"
+      ],
+      "transferable_skills": [
+        "Automation (endpoint, troubleshooting, silent installers)",
+        "Endpoint remediation",
+        "Metadata-driven pipelines",
+        "Git",
+        "Shell scripting"
+      ],
+      "missing_skills": [
+        "Spirent TestCenter (STC) Python API",
+        "API/CLI testing",
+        "L2/L3 networking protocols (Ethernet, VLAN, BGP, OSPF, MPLS, VXLAN, EVPN)",
+        "Long-running soak test development",
+        "RFC 2544 / RFC 2889 benchmarking",
+        "AI tooling (Claude Code, agentic AI)",
+        "CI/CD (Jenkins, GitLab)",
+        "JIRA, Confluence",
+        "Performance, scale, convergence testing",
+        "Network virtualization tools (e.g., IXIA, Wireshark, Iperf)"
+      ],
+      "hard_requirements": [
+        "Overall QA experience 6+ years",
+        "Networking domain experience 4+ years",
+        "QA Automation experience 4+ years",
+        "API/CLI testing 4+ years",
+        "Python (preferred)",
+        "Spirent TestCenter automation",
+        "Long-running soak test suites",
+        "Knowledge of L2/L3 protocols",
+        "RFC 2544 / RFC 2889 benchmarking",
+        "AI tooling usage",
+        "Performance and convergence testing"
+      ],
+      "hard_requirement_gaps": [
+        "Overall QA experience 6+ years – candidate has 3 years",
+        "Networking domain experience 4+ years – candidate has none",
+        "QA Automation experience 4+ years – candidate has 3 years",
+        "API/CLI testing 4+ years – candidate has none",
+        "Spirent TestCenter automation – candidate has none",
+        "Long-running soak test suites – candidate has none",
+        "Knowledge of L2/L3 protocols – candidate has none",
+        "RFC 2544 / RFC 2889 benchmarking – candidate has none",
+        "AI tooling usage – candidate has none",
+        "Performance and convergence testing – candidate has none"
+      ],
+      "experience_requirement": "6+ years overall QA, 4+ years networking domain, 4+ years QA automation",
+      "experience_gap": "Candidate has 3 years total experience, lacking the required 6+ years overall QA and 4+ years networking domain and QA automation experience.",
+      "key_risks": [
+        "Major skill gaps in networking protocols and STC automation",
+        "Insufficient experience with long-running soak tests",
+        "No CI/CD or AI tooling experience",
+        "Potential mismatch in performance and convergence testing expertise"
+      ],
+      "why_it_matches": [
+        "Strong Python automation background",
+        "Experience with Bash, PowerShell, and C# scripting",
+        "Cross-platform (Windows, macOS, Linux) automation",
+        "Selenium for browser automation",
+        "Data analysis skills with Pandas and Power BI"
+      ],
+      "why_it_may_not_match": [
+        "No networking domain experience",
+        "No Spirent TestCenter or STC API experience",
+        "No API/CLI testing background",
+        "No long-running soak test development",
+        "No CI/CD pipeline integration",
+        "No AI tooling usage",
+        "Insufficient overall QA experience"
+      ],
+      "application_priority": "low",
+      "summary": "The candidate’s skill set is focused on endpoint and application automation with strong scripting and data analysis capabilities, but the role demands extensive networking domain knowledge, Spirent TestCenter expertise, long-running soak test development, and significant QA experience that the candidate does not possess. Therefore, the fit is low."
+    }
+  },
+  {
+    "job": {
+      "id": "staff-software-development-engineer-python-automation-networking-zscaler-wg4zn43j",
+      "title": "Staff Software Development Engineer - Python Automation + Networking",
+      "company": "Zscaler",
+      "location": "Bangalore, IND; Hyderabad, IND",
+      "date": "2026-09-29T12:35:04Z",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5228175007?utm_source=freehire.me",
+      "description": "Zscaler (NASDAQ: ZS) accelerates digital transformation so customers can be more agile, efficient, resilient, and secure. The Zscaler Zero Trust Exchange™️ platform protects thousands of customers from cyberattacks and data loss by securely connecting users, devices, and applications in any location. Distributed across 160+ public exchanges globally and thousands of private exchanges at the edge, the SASE-based Zero Trust Exchange is the world’s largest in-line cloud security platform.\n\nWe believe the future of work is Human + AI and are building an AI-native enterprise where human potential is amplified by machine intelligence to solve the world’s hardest security challenges. Driven by deep customer obsession, we are committed to the mission, outcome, and to each other. We bring these commitments to life through three core behaviors: ownership and collaboration, trust through outcomes and impact, and a challenge culture with ongoing feedback. Ready to make an impact at the company pioneering security transformation in the AI era? Join us at Zscaler.\n\n**Role**\n\nWe are looking for a Staff Software Development Engineer to join our team. This is a hybrid role based in Bangalore or Hyderabad ,India reporting to the Senior Manager, Software Engineering in the Engineering department. You will join the team that built the world’s largest cloud security platform from the ground up, enabling organizations worldwide to harness speed and agility with a cloud-first strategy. With more than 100 patents and 15 million users across 185 countries, you will bring your vision to a team of experts dedicated to enhancing our multitenant architecture and global footprint.\n\n**What you’ll do (Role Expectations)**\n\n- Collaborate with cross-functional teams during the design phase and maintain cloud-based software solutions.\n- Test at scale, utilizing coding proficiency in Python to automate testing procedures.\n- Take ownership of diagnosing and resolving customer issues, including recreating production issues and providing necessary workarounds for resolution.\n- Provide critical insights to the development team to enhance the debug feature of the product.\n- Develop and maintain robust and scalable test automation frameworks for our cloud security products.\n- Integrate automated APIs into CI/CD systems (Jenkins/GitLab).\n\n**Who You Are (Success Profile)**\n\n- You are a problem-solver who is energized by finding solutions to complex technical challenges and delivering high-impact outcomes.\n- You are customer-obsessed, anchoring your decisions in solving real-world customer issues and championing their needs from start to finish.\n- You are a high-trust collaborator who thrives in a team environment, giving and receiving candid feedback to build trust and achieve shared goals.\n- You are a learner with a growth mindset, constantly developing your technical skills and actively integrating feedback to improve.\n- You operate with urgency and maintain a strong bias for action, delivering high-impact, high-quality results in a dynamic environment.\n\n**What We’re Looking for (Minimum Qualifications)**\n\n- 4+ years of experience building Python-based frameworks (preferably PyTest) for API, protocol, and system tests to drive reliability and coverage across microservices.\n- Experience building browser automation (Playwright/Selenium) for BA user journeys; capability to integrate synthetic identities, MFA, and just-in-time privileged access.\n- Experience integrating automation into CI/CD pipelines (Jenkins/GitLab), implementing shift-left gating, test data provisioning, and parallel execution and experience with Cloud and Kubernetes ecosystems (AWS/GCP/Azure, Docker, Helm, Terraform).\n- Hands-on proficiency with HTTP/HTTPS/TLS, certificates, and debugging network flows using tools like tcpdump and Wireshark.\n- Foundational understanding of AI/ML technologies and experience leveraging, securing, or positioning AI-driven solutions to optimize outcomes within your functional domain\n\n**What Will Make You Stand Out (Preferred Qualifications)**\n\n- Practical experience using Identity Providers (IdP) such as Okta, Azure AD, or Ping, including configuring SAML/OIDC apps, MFA policies, groups, and SCIM provisioning for test environments.\n- Knowledge and hands-on experience with Zero Trust Network Access (ZTNA) architectures.\n- Foundational understanding of AI/ML technologies and experience leveraging, securing, or positioning AI-driven solutions to optimize outcomes within your functional domain\n\n#LI-AN4  \n#LI-Hybrid\n\nAt Zscaler, we are committed to building a team that reflects the communities we serve and the customers we work with. We foster an inclusive environment that values all backgrounds and perspectives, emphasizing collaboration and belonging. Join us in our mission to make doing business seamless and secure.\n\nOur Benefits program is one of the most important ways we support our employees. Zscaler proudly offers comprehensive and inclusive benefits to meet the diverse needs of our employees and their families throughout their life stages, including:\n\n- Various health plans\n- Time off plans for vacation and sick time\n- Parental leave options\n- Retirement options\n- Education reimbursement\n- In-office perks, and more!\n\nLearn more about Zscaler's hybrid working model and benefits here.\n\nBy applying for this role, you adhere to applicable laws, regulations, and Zscaler policies, including those related to security and privacy standards and guidelines.\n\nZscaler is committed to providing equal employment opportunities to all individuals. We strive to create a workplace where employees are treated with respect and have the chance to succeed. All qualified applicants will be considered for employment without regard to race, color, religion, sex (including pregnancy or related medical conditions), age, national origin, sexual orientation, gender identity or expression, genetic information, disability status, protected veteran status, or any other characteristic protected by federal, state, or local laws. *See more information by clicking on the Know Your Rights: Workplace Discrimination is Illegal link.*\n\nPay Transparency\n\nZscaler complies with all applicable federal, state, and local pay transparency rules.\n\nZscaler is committed to providing reasonable support (called accommodations or adjustments) in our recruiting processes for candidates who are differently abled, have long term conditions, mental health conditions or sincerely held religious beliefs, or who are neurodivergent or require pregnancy-related support.",
+      "source": "FreeHire",
+      "work_mode": "hybrid",
+      "skills": [
+        "agile",
+        "ai",
+        "api",
+        "automation",
+        "aws",
+        "azure",
+        "azure-ad",
+        "ci-cd",
+        "cloud",
+        "cloud-security",
+        "docker",
+        "gcp",
+        "gitlab",
+        "helm",
+        "jenkins",
+        "kubernetes",
+        "machine-learning",
+        "microservices",
+        "okta",
+        "openid",
+        "playwright",
+        "pytest",
+        "python",
+        "saml",
+        "sase",
+        "scim",
+        "selenium",
+        "terraform",
+        "test-automation",
+        "tls",
+        "wireshark",
+        "zero-trust"
+      ]
+    },
+    "analysis": {
+      "match_score": 0,
+      "fit_level": "low",
+      "application_priority": "low_priority",
+      "summary": "Groq analysis failed. Review manually.",
+      "key_risks": [
+        "Groq did not return JSON:\n{\n  \"match_score\": 30,\n  \"fit_level\": \"low\",\n  \"experience_fit\": \"Below required experience\",\n  \"location_fit\": \"Potentially acceptable but not confirmed\",\n  \"work_mode\": \"hybrid\",\n  \"matching_skills\": [\n    \"Python\",\n    \"Selenium\",\n    \"Playwright\",\n    \"PowerShell\",\n    \"Bash\",\n    \"C#\",\n    \"Git\",\n    \"Windows\",\n    \"macOS\",\n    \"Linux\",\n    \"automation\",\n    \"endpoint automation\",\n    \"troubleshooting automation\",\n    \"scripting\"\n  ],\n  \"transferable_skills\": [\n    \"Python automation\",\n    \"PowerShell automation\",\n    \"Bash automation\",\n    \"Endpoint remediation\",\n    \"Silent installers\",\n    \"Data analysis\",\n    \"Pandas\",\n    \"NumPy\",\n    \"Power BI\"\n  ],\n  \"missing_skills\": [\n    \"CI/CD\",\n    \"Jenkins\",\n    \"GitLab\",\n    \"Docker\",\n    \"Kubernetes\",\n    \"Helm\",\n    \"Terraform\",\n    \"AWS\",\n    \"GCP\",\n    \"Azure\",\n    \"Azure AD\",\n    \"Okta\",\n    \"SAML\",\n    \"OIDC\",\n    \"SCIM\",\n    \"Zero Trust Network Access\",\n    \"Wireshark\",\n    \"tcpdump\",\n    \"HTTP/HTTPS/TLS\",\n    \"network debugging\",\n    \"AI/ML foundational\",\n    \"IdP configuration\"\n  ],\n  \"hard_requirements\": [\n    \"4+ years of experience building Python-based frameworks (preferably PyTest)\",\n    \"Experience building browser automation (Playwright/Selenium)\",\n    \"Experience integrating automation into CI/CD pipelines (Jenkins/GitLab)\",\n    \"Hands‑on proficiency with HTTP/HTTPS/TLS, certificates, debugging network flows using tools like tcpdump and Wireshark\",\n    \"Foundational understanding of AI/ML technologies\"\n  ],\n  \"hard_requirement_gaps\": [\n    \"Insufficient years of experience (3 vs 4+)\",\n    \"No CI/CD pipeline integration experience\",\n    \"No cloud/Kubernetes exposure\",\n    \"No network debugging tool experience\",\n    \"Limited AI/ML application experience\"\n  ],\n  \"experience_requirement\": \"4+ years of experience building Python-based frameworks\",\n  \"experience_gap\": \"Candidate has approximately 3 years of professional experience, falling short of the 4+ year requirement by about 1 year.\",\n  \"key_risks\": [\n    \"Experience gap relative to minimum requirement\",\n    \"Missing CI/CD integration expertise"
+      ]
+    }
+  },
+  {
+    "job": {
+      "id": "firmware-validation-engineer-python-ai-automation-hewlett-packard-enterprise-rbboflsj",
+      "title": "Firmware Validation Engineer (Python - AI, Automation)",
+      "company": "Hewlett Packard Enterprise",
+      "location": "Bengaluru, Karnātaka, India",
+      "date": "2026-09-28T00:00:00Z",
+      "url": "https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Bengaluru-Karntaka-India/Firmware-Validation-Engineer--Python---AI--Automation-_1212898?utm_source=freehire.me",
+      "description": "Firmware Validation Engineer (Python - AI, Automation)\n\nThis role has been designed as 'Hybrid' with a requirement that you will work on average 2 days per week from an HPE office.\n\n**Who We Are:**\n\nHewlett Packard Enterprise is the global edge-to-cloud company advancing the way people live and work. We help companies connect, protect, analyze, and act on their data and applications wherever they live, from edge to cloud, so they can turn insights into outcomes at the speed required to thrive in today’s complex world. Our culture thrives on finding new and better ways to accelerate what’s next. We know varied backgrounds are valued and succeed here. We have the flexibility to manage our work and personal needs. We make bold moves, together, and are a force for good. If you are looking to stretch and grow your career our culture will embrace you. Open up opportunities with HPE.\n\n**Job Description:**\n\n**Compute** at **HPE** helps organizations power their edge-to-cloud platform with proven, workload-optimized products, solutions, and services. Our leading supercomputing technologies enable customers to transform and modernize their IT infrastructure, solve complex problems and support new business opportunities with purpose-built infrastructure and software. Join us redefine what’s next for you.\n\n**What you'll do:**\n\n- Develop comprehensive test plans and automate test solutions for firmware products and system-level solutions across multiple platforms and organizations within the Global Business Unit.\n- Contribute as an individual contributor while actively driving hands-on qualification and validation of iLO products and solutions.\n- Collaborate with Quality Engineering (QE) teams and outsourced partners across all phases of the Software Testing Life Cycle (STLC).\n- Build and strengthen partnerships with internal and outsourced development teams to support software design, validation, and quality initiatives.\n- Provide domain expertise and technical leadership to cross-functional projects, programs, and organizational initiatives.\n- Drive innovation through the adoption and integration of emerging technologies, tools, and methodologies within software validation and engineering activities.\n\nYou will join a world-class engineering team focused on qualifying and testing HPE's next-generation infrastructure and lifecycle management solutions. Our team is passionate about delivering exceptional customer value through strong collaboration, innovation, and a commitment to getting it right the first time.\n\n**What you need to bring:**\n\n**Education and Experience**\n\n- Bachelor's or Master's degree in Computer Science, Information Systems, Electronics, or a related field.\n- Typically, 5+ years of experience.\n\n**Required Knowledge and Skills**\n\n- Strong **BIOS/UEFI**, firmware, and server platform **validation** knowledge.\n- Good understanding of **CPU, Memory, Security, RAS,** and platform management features.\n- Experience in end-to-end test planning, execution, defect analysis, and release qualification.\n- Hands-on expertise in **Python**-based test **automation** and firmware debugging.\n- Ability to drive quality initiatives and collaborate effectively across engineering teams.\n- Familiarity with **AI/GenAI** tools to improve test design, automation, debugging, developing AI agents to increase the productivity.\n- Good with Python scripting and test **automation** development.\n- Strong hands-on experience with GitHub Copilot and AI-assisted software development workflows.\n- Ability to effectively leverage AI tools such as GitHub Copilot to accelerate automation script development, debugging, and test execution.\n- Strong understanding of server management technologies, platform validation, option validation, firmware architecture, and low-level system components.\n- Working knowledge of Redfish APIs; experience in security testing is highly desirable.\n- Experience assembling and configuring server hardware, including CPUs, memory, storage devices, network adapters, power supplies, and disk drives.\n- Strong understanding of the testing ecosystem, including tools, test environments, data management, automation frameworks, and execution infrastructure.\n- Good understanding of Software Development Life Cycle (SDLC) methodologies and Agile development practices.\n\n**Additional Skills**\n\n- Proven leadership capabilities with a strong focus on execution and results.\n- Excellent verbal and written communication skills.\n- Knowledge of fault-tolerant systems and high-availability architectures is an advantage.\n\n**Accessibility**\n\nHPE is committed to creating an inclusive and accessible workplace and encourages applications from all qualified individuals, including those with disabilities. If you believe you require accommodation during any stage of the application or interview process, please submit your request by completing our secure form linked here.\n\nNote: This option is reserved for applicants needing assistance/reasonable accommodation related to a disability.\n\n**What We Can Offer You:**\n\n**Health & Wellbeing**\n\nWe strive to provide our team members and their loved ones with a comprehensive suite of benefits that supports their physical, financial and emotional wellbeing.\n\n**Personal & Professional Development**\n\nWe also invest in your career because the better you are, the better we all are. We have specific programs catered to helping you reach any career goals you have — whether you want to become a knowledge expert in your field or apply your skills to another division.\n\n**Unconditional Inclusion**\n\nWe are unconditionally inclusive in the way we work and celebrate individual uniqueness. We know varied backgrounds are valued and succeed here. We have the flexibility to manage our work and personal needs. We make bold moves, together, and are a force for good.\n\n**Let's Stay Connected:**\n\nFollow @HPECareers on Instagram to see the latest on people, culture and tech at HPE.\n\n#india#compute\n\n**Job:**\n\nEngineering\n\n**Job Level:**\n\nTCP\\_03\n\nHPE is an Equal Employment Opportunity/ Veterans/Disabled/LGBT employer. We do not discriminate on the basis of race, gender, or any other protected category, and all decisions we make are made on the basis of qualifications, merit, and business need. Our goal is to be one global team that is representative of our customers, in an inclusive environment where we can continue to innovate and grow together. Please click here: Equal Employment Opportunity.\n\n**Hewlett Packard Enterprise is EEO Protected Veteran/ Individual with Disabilities.**\n\nHPE will comply with all applicable laws related to employer use of arrest and conviction records, including laws requiring employers to consider for employment qualified applicants with criminal histories.\n\n**Recruitment Fraud Alert**\n\nWe have become aware of an increase in fraudulent recruitment activities in which individuals impersonate our company or authorized recruitment agencies to offer fake employment opportunities. These scams may occur through false websites, emails, social media, or chat-based applications and often aim to obtain personal information or money. Please note that Hewlett Packard Enterprise (HPE), its direct and indirect subsidiaries and affiliated companies, and its authorized recruitment agencies/vendors will never charge a candidate a registration fee, hiring fee, or any other fee in connection with its recruitment and hiring process. We also never request personal information such as back account details, Social Security numbers, or national IDs via social media or chat applications.\n\nAll legitimate job opportunities will come through official company channels, and candidates are responsible for verifying the credentials of any third party claiming to represent the company. Any reliance on fraudulent communication is at the individual’s own risk, and HPE disclaims legal liability for any resulting damages. If you suspect recruitment fraud, do not share personal information or make any payments and report the incident to your local authorities immediately.",
+      "source": "FreeHire",
+      "work_mode": null,
+      "skills": [
+        "accessibility",
+        "agentic-ai",
+        "agile",
+        "ai",
+        "api",
+        "automation",
+        "cloud",
+        "firmware",
+        "generative-ai",
+        "github",
+        "github-copilot",
+        "python",
+        "sdlc",
+        "test-automation"
+      ]
+    },
+    "analysis": {
+      "match_score": 30,
+      "fit_level": "low",
+      "experience_fit": "Candidate has ~3 years of experience; role requires 5+ years.",
+      "location_fit": "Bengaluru, India – candidate can work from India, but commuting may be required.",
+      "work_mode": "Hybrid (2 days per week in office); candidate’s work mode not specified.",
+      "matching_skills": [
+        "Python",
+        "PowerShell",
+        "Bash",
+        "C#",
+        "Git",
+        "Windows",
+        "macOS",
+        "Linux",
+        "Selenium",
+        "Automation",
+        "Scripting",
+        "Data analysis",
+        "Agile"
+      ],
+      "transferable_skills": [
+        "Test automation development",
+        "Python scripting",
+        "Automation framework design",
+        "Cross‑platform scripting",
+        "Git version control",
+        "Agile development practices"
+      ],
+      "missing_skills": [
+        "BIOS/UEFI firmware validation",
+        "Server platform validation",
+        "CPU/Memory/RAS security knowledge",
+        "Firmware debugging",
+        "End‑to‑end test planning and defect analysis",
+        "Release qualification",
+        "Redfish API usage",
+        "Hardware assembly/configuration",
+        "GitHub Copilot experience",
+        "AI‑assisted software development workflows"
+      ],
+      "hard_requirements": [
+        "Bachelor’s degree in Computer Science or related field",
+        "5+ years of professional experience",
+        "BIOS/UEFI firmware validation knowledge",
+        "Server platform validation knowledge",
+        "Python‑based test automation",
+        "AI/GenAI tools familiarity",
+        "GitHub Copilot experience",
+        "Redfish API knowledge",
+        "Hardware assembly experience"
+      ],
+      "hard_requirement_gaps": [
+        "5+ years of experience",
+        "BIOS/UEFI firmware validation",
+        "Server platform validation",
+        "Redfish API usage",
+        "Hardware assembly",
+        "GitHub Copilot"
+      ],
+      "experience_requirement": "5+ years of experience",
+      "experience_gap": "Approximately 2 years short of the required experience.",
+      "key_risks": [
+        "Missing firmware validation expertise",
+        "Lack of hardware configuration experience",
+        "Insufficient years of experience",
+        "No Redfish API or GitHub Copilot experience"
+      ],
+      "why_it_matches": [
+        "Strong Python automation and scripting background",
+        "Cross‑platform automation experience (Windows, macOS, Linux)",
+        "Experience with Selenium and test automation frameworks",
+        "Familiarity with AI/GenAI concepts",
+        "Agile development and Git usage"
+      ],
+      "why_it_may_not_match": [
+        "No firmware or BIOS/UEFI validation experience",
+        "No server platform validation or hardware assembly skills",
+        "Insufficient years of experience for the role",
+        "No Redfish API or GitHub Copilot experience"
+      ],
+      "application_priority": "low",
+      "summary": "Priyank Saxena brings solid Python and cross‑platform automation skills, but the role demands extensive firmware validation, server platform knowledge, hardware assembly, and a minimum of five years of experience—areas where the candidate lacks proven expertise. The mismatch in hard requirements and experience level makes this a low‑priority match."
+    }
+  },
+  {
+    "job": {
+      "id": "firmware-validation-engineer-python-ai-automation-hpe-mcc5624g",
+      "title": "Firmware Validation Engineer (Python - AI, Automation)",
+      "company": "hpe",
+      "location": "Bengaluru, Karnātaka, India",
+      "date": "2026-09-28T00:00:00Z",
+      "url": "https://hpe.wd5.myworkdayjobs.com/WFMathpe/job/Bengaluru-Karntaka-India/Firmware-Validation-Engineer--Python---AI--Automation-_1212898-1?utm_source=freehire.me",
+      "description": "Firmware Validation Engineer (Python - AI, Automation)\n\nThis role has been designed as 'Hybrid' with a requirement that you will work on average 2 days per week from an HPE office.\n\n**Who We Are:**\n\nHewlett Packard Enterprise is the global edge-to-cloud company advancing the way people live and work. We help companies connect, protect, analyze, and act on their data and applications wherever they live, from edge to cloud, so they can turn insights into outcomes at the speed required to thrive in today’s complex world. Our culture thrives on finding new and better ways to accelerate what’s next. We know varied backgrounds are valued and succeed here. We have the flexibility to manage our work and personal needs. We make bold moves, together, and are a force for good. If you are looking to stretch and grow your career our culture will embrace you. Open up opportunities with HPE.\n\n**Job Description:**\n\n**Compute** at **HPE** helps organizations power their edge-to-cloud platform with proven, workload-optimized products, solutions, and services. Our leading supercomputing technologies enable customers to transform and modernize their IT infrastructure, solve complex problems and support new business opportunities with purpose-built infrastructure and software. Join us redefine what’s next for you.\n\n**What you'll do:**\n\n- Develop comprehensive test plans and automate test solutions for firmware products and system-level solutions across multiple platforms and organizations within the Global Business Unit.\n- Contribute as an individual contributor while actively driving hands-on qualification and validation of iLO products and solutions.\n- Collaborate with Quality Engineering (QE) teams and outsourced partners across all phases of the Software Testing Life Cycle (STLC).\n- Build and strengthen partnerships with internal and outsourced development teams to support software design, validation, and quality initiatives.\n- Provide domain expertise and technical leadership to cross-functional projects, programs, and organizational initiatives.\n- Drive innovation through the adoption and integration of emerging technologies, tools, and methodologies within software validation and engineering activities.\n\nYou will join a world-class engineering team focused on qualifying and testing HPE's next-generation infrastructure and lifecycle management solutions. Our team is passionate about delivering exceptional customer value through strong collaboration, innovation, and a commitment to getting it right the first time.\n\n**What you need to bring:**\n\n**Education and Experience**\n\n- Bachelor's or Master's degree in Computer Science, Information Systems, Electronics, or a related field.\n- Typically, 5+ years of experience.\n\n**Required Knowledge and Skills**\n\n- Strong **BIOS/UEFI**, firmware, and server platform **validation** knowledge.\n- Good understanding of **CPU, Memory, Security, RAS,** and platform management features.\n- Experience in end-to-end test planning, execution, defect analysis, and release qualification.\n- Hands-on expertise in **Python**-based test **automation** and firmware debugging.\n- Ability to drive quality initiatives and collaborate effectively across engineering teams.\n- Familiarity with **AI/GenAI** tools to improve test design, automation, debugging, developing AI agents to increase the productivity.\n- Good with Python scripting and test **automation** development.\n- Strong hands-on experience with GitHub Copilot and AI-assisted software development workflows.\n- Ability to effectively leverage AI tools such as GitHub Copilot to accelerate automation script development, debugging, and test execution.\n- Strong understanding of server management technologies, platform validation, option validation, firmware architecture, and low-level system components.\n- Working knowledge of Redfish APIs; experience in security testing is highly desirable.\n- Experience assembling and configuring server hardware, including CPUs, memory, storage devices, network adapters, power supplies, and disk drives.\n- Strong understanding of the testing ecosystem, including tools, test environments, data management, automation frameworks, and execution infrastructure.\n- Good understanding of Software Development Life Cycle (SDLC) methodologies and Agile development practices.\n\n**Additional Skills**\n\n- Proven leadership capabilities with a strong focus on execution and results.\n- Excellent verbal and written communication skills.\n- Knowledge of fault-tolerant systems and high-availability architectures is an advantage.\n\n**Accessibility**\n\nHPE is committed to creating an inclusive and accessible workplace and encourages applications from all qualified individuals, including those with disabilities. If you believe you require accommodation during any stage of the application or interview process, please submit your request by completing our secure form linked here.\n\nNote: This option is reserved for applicants needing assistance/reasonable accommodation related to a disability.\n\n**What We Can Offer You:**\n\n**Health & Wellbeing**\n\nWe strive to provide our team members and their loved ones with a comprehensive suite of benefits that supports their physical, financial and emotional wellbeing.\n\n**Personal & Professional Development**\n\nWe also invest in your career because the better you are, the better we all are. We have specific programs catered to helping you reach any career goals you have — whether you want to become a knowledge expert in your field or apply your skills to another division.\n\n**Unconditional Inclusion**\n\nWe are unconditionally inclusive in the way we work and celebrate individual uniqueness. We know varied backgrounds are valued and succeed here. We have the flexibility to manage our work and personal needs. We make bold moves, together, and are a force for good.\n\n**Let's Stay Connected:**\n\nFollow @HPECareers on Instagram to see the latest on people, culture and tech at HPE.\n\n#india#compute\n\n**Job:**\n\nEngineering\n\n**Job Level:**\n\nTCP\\_03\n\nHPE is an Equal Employment Opportunity/ Veterans/Disabled/LGBT employer. We do not discriminate on the basis of race, gender, or any other protected category, and all decisions we make are made on the basis of qualifications, merit, and business need. Our goal is to be one global team that is representative of our customers, in an inclusive environment where we can continue to innovate and grow together. Please click here: Equal Employment Opportunity.\n\n**Hewlett Packard Enterprise is EEO Protected Veteran/ Individual with Disabilities.**\n\nHPE will comply with all applicable laws related to employer use of arrest and conviction records, including laws requiring employers to consider for employment qualified applicants with criminal histories.\n\n**Recruitment Fraud Alert**\n\nWe have become aware of an increase in fraudulent recruitment activities in which individuals impersonate our company or authorized recruitment agencies to offer fake employment opportunities. These scams may occur through false websites, emails, social media, or chat-based applications and often aim to obtain personal information or money. Please note that Hewlett Packard Enterprise (HPE), its direct and indirect subsidiaries and affiliated companies, and its authorized recruitment agencies/vendors will never charge a candidate a registration fee, hiring fee, or any other fee in connection with its recruitment and hiring process. We also never request personal information such as back account details, Social Security numbers, or national IDs via social media or chat applications.\n\nAll legitimate job opportunities will come through official company channels, and candidates are responsible for verifying the credentials of any third party claiming to represent the company. Any reliance on fraudulent communication is at the individual’s own risk, and HPE disclaims legal liability for any resulting damages. If you suspect recruitment fraud, do not share personal information or make any payments and report the incident to your local authorities immediately.",
+      "source": "FreeHire",
+      "work_mode": null,
+      "skills": [
+        "accessibility",
+        "agentic-ai",
+        "agile",
+        "ai",
+        "api",
+        "automation",
+        "cloud",
+        "firmware",
+        "generative-ai",
+        "github",
+        "github-copilot",
+        "python",
+        "sdlc",
+        "test-automation"
+      ]
+    },
+    "analysis": {
+      "match_score": 20,
+      "fit_level": "low",
+      "experience_fit": "Candidate has 3 years of experience, job requires 5+ years.",
+      "location_fit": "Yes – Bengaluru, India.",
+      "work_mode": "Unclear – job states hybrid but work_mode field is null.",
+      "matching_skills": [
+        "Python",
+        "PowerShell",
+        "Bash",
+        "C#",
+        "Selenium",
+        "Git",
+        "Windows",
+        "macOS",
+        "Linux",
+        "Scripting",
+        "Automation",
+        "Data analysis"
+      ],
+      "transferable_skills": [
+        "Python automation",
+        "Selenium-based test automation",
+        "Endpoint automation",
+        "Troubleshooting automation",
+        "Cross-platform scripting",
+        "Git-based collaboration"
+      ],
+      "missing_skills": [
+        "BIOS/UEFI firmware validation",
+        "Server platform validation",
+        "CPU, Memory, Security, RAS knowledge",
+        "Firmware debugging",
+        "End-to-end test planning",
+        "Defect analysis",
+        "Release qualification",
+        "Redfish API usage",
+        "Hardware assembly/configuration",
+        "GitHub Copilot experience",
+        "AI/GenAI tool integration for test design",
+        "Agile/SDLC practices",
+        "Test automation frameworks specific to firmware"
+      ],
+      "hard_requirements": [
+        "Bachelor's degree in Computer Science or related field",
+        "5+ years of professional experience",
+        "BIOS/UEFI firmware validation knowledge",
+        "Server platform validation experience",
+        "Python-based test automation for firmware",
+        "AI/GenAI tools familiarity",
+        "GitHub Copilot experience",
+        "Redfish API knowledge",
+        "Hardware assembly/configuration experience"
+      ],
+      "hard_requirement_gaps": [
+        "Experience: 2 years short of required 5+ years",
+        "Firmware validation: not present",
+        "Server platform validation: not present",
+        "Python firmware test automation: not demonstrated",
+        "AI/GenAI tools: limited evidence",
+        "GitHub Copilot: not mentioned",
+        "Redfish API: not mentioned",
+        "Hardware assembly: not mentioned"
+      ],
+      "experience_requirement": "5+ years",
+      "experience_gap": "Approximately 2 years",
+      "key_risks": [
+        "Missing critical firmware validation expertise",
+        "Insufficient experience level for senior role",
+        "Lack of hardware and Redfish API knowledge",
+        "No evidence of GitHub Copilot usage",
+        "Potential mismatch in test planning and defect analysis skills"
+      ],
+      "why_it_matches": [
+        "Strong Python and automation background",
+        "Cross-platform scripting experience",
+        "Selenium test automation experience",
+        "Git usage and collaboration",
+        "Data analysis skills"
+      ],
+      "why_it_may_not_match": [
+        "No firmware or BIOS/UEFI validation experience",
+        "Insufficient years of experience",
+        "Missing hardware assembly and Redfish API knowledge",
+        "No demonstrated AI/GenAI tool integration for test automation",
+        "No GitHub Copilot experience"
+      ],
+      "application_priority": "low",
+      "summary": "The candidate possesses solid automation and scripting skills, but lacks the core firmware validation expertise, hardware knowledge, and required experience level for this Firmware Validation Engineer role. The mismatch in hard requirements and experience gap suggests a low fit."
+    }
+  },
+  {
+    "job": {
+      "id": "software-engineer-linux-automation-c-and-python-luxoft-gv2ou3mk",
+      "title": "Software Engineer – Linux & Automation (C++ and Python)",
+      "company": "Luxoft",
+      "location": "Pune, IN",
+      "date": "2026-09-23T10:07:07Z",
+      "url": "https://career.luxoft.com/jobs/software-engineer-linux-automation-c-and-python-27808?utm_source=freehire.me",
+      "description": "Project description\n\nJoin a mission‑critical portfolio management platform team within a leading Swiss investment bank. You will contribute to a mature, high‑performance production system and help elevate team efficiency through shared tools and best practices.\n\nResponsibilities\n\n- \\- Develop, enhance, and maintain core components of a Linux‑first portfolio management platform. - Implement automation solutions to improve system reliability, performance, and operational efficiency. - Collaborate closely with senior engineers, follow established direction, and deliver high‑quality, well‑tested code. - Contribute ideas and improvements while supporting team standards, workflows, and engineering practices. - Participate in continuous improvement of the platform.\n\nSKILLS\n\nMust have\n\n- \\- 3 to 5 years of experience in software development - Strong Linux engineering background with a focus on automation and system-level problem-solving - Hands‑on experience with C++ and Python - Experience working with mature, large‑scale systems and delivering reliable, incremental improvements - Familiarity with QT - Ability to take direction well, follow established processes, and execute tasks with consistency and ownership - Strong communication skills and a collaborative mindset suited for mission‑critical financial systems\n\nNice to have\n\n\\- Experience in fintech, trading, or portfolio management platforms, or a strong interest in this domain - Knowledge of distributed systems, performance tuning, or low‑latency engineering - Understanding of software design patterns and best practices for high‑availability systems",
+      "source": "FreeHire",
+      "work_mode": null,
+      "skills": [
+        "automation",
+        "cpp",
+        "design-patterns",
+        "distributed-systems",
+        "fintech",
+        "linux",
+        "python"
+      ]
+    },
+    "analysis": {
+      "match_score": 65,
+      "fit_level": "medium",
+      "experience_fit": "Candidate has approximately 3 years of professional experience, meeting the 3‑5 year requirement.",
+      "location_fit": "Pune, India – matches candidate’s preferred location.",
+      "work_mode": "Unclear",
+      "matching_skills": [
+        "Python",
+        "Linux",
+        "automation",
+        "system‑level problem solving"
+      ],
+      "transferable_skills": [
+        "C#",
+        "PowerShell",
+        "Bash",
+        "Selenium",
+        "endpoint automation",
+        "troubleshooting automation",
+        "data analysis"
+      ],
+      "missing_skills": [
+        "C++",
+        "Qt",
+        "fintech domain knowledge",
+        "distributed systems",
+        "design patterns",
+        "large‑scale system experience"
+      ],
+      "hard_requirements": [
+        "3‑5 years of software development experience",
+        "Strong Linux engineering background with a focus on automation and system‑level problem‑solving",
+        "Hands‑on experience with C++ and Python",
+        "Experience working with mature, large‑scale systems",
+        "Familiarity with Qt"
+      ],
+      "hard_requirement_gaps": [
+        "C++",
+        "Qt",
+        "mature large‑scale system experience"
+      ],
+      "experience_requirement": "3‑5 years",
+      "experience_gap": "",
+      "key_risks": [
+        "Missing C++ and Qt experience, which are explicitly required",
+        "No demonstrated experience with large‑scale, mission‑critical financial systems",
+        "No fintech or portfolio management domain exposure"
+      ],
+      "why_it_matches": [
+        "Candidate has a strong Linux background and extensive automation experience",
+        "Proficient in Python, which is a core language for the role",
+        "Has 3 years of professional experience, meeting the minimum years requirement",
+        "Demonstrated system‑level problem solving through endpoint remediation and troubleshooting"
+      ],
+      "why_it_may_not_match": [
+        "No C++ experience, a mandatory skill for the role",
+        "No Qt familiarity, which is listed as a hard requirement",
+        "No explicit experience with large‑scale, mature production systems",
+        "No fintech or portfolio management domain knowledge"
+      ],
+      "application_priority": "medium",
+      "summary": "Priyank Saxena brings solid Linux and automation expertise with Python, aligning well with several core requirements. However, the absence of C++ and Qt experience, along with limited exposure to large‑scale financial systems, represents significant gaps that may limit fit for this role."
+    }
+  },
+  {
+    "job": {
+      "id": "qa-sw-engineer-10534-network-protocol-testing-python-automation-extreme-networks-qvttgzvf",
+      "title": "QA SW ENGINEER 10534- Network Protocol Testing- Python Automation",
+      "company": "Extreme Networks",
+      "location": "Bangalore",
+      "date": "2026-09-23T02:29:42Z",
+      "url": "https://jobs.lever.co/extremenetworks/4458281f-9c51-4ea2-9f54-09ccd883b4f9?utm_source=freehire.me",
+      "description": "#### Roles and Responsibilities:\n\nThe SQA Engineer would be an individual contributor partnering with other Engineering teams, Services and Field Engineers to help build and validate the Products and Solutions for high end customer deployments. The role would require participation from design, development to deployment and beyond. The Engineers would write test strategy, test plans and develop automated test frameworks, tools and scripts to cover the various functional, performance and scalability aspects of Platform and Software solution validation. This role emphasizes building robust, maintainable test automation infrastructure and test suites.\n\n#### Qualification and Experience:\n\n- B.E. / B.Tech. or equivalent in CS/ECE/TCE/EEE or MS in Computer Science/Application/Engineering\n- 2-4 years of relevant industry experience in Telecom/Data Networking and Network Security\n- 2+ years of hands-on test automation experience using modern automation frameworks and tools\n\n#### Skillset Required:\n\n**Core Networking & Testing:**\n\n- Good understanding of Operating System concepts, network applications and network operating systems\n- Familiarity with Traffic Generators (Ixia/Spirent) and Network debugging tools (Wireshark, ping, traceroute, etc.)\n- Good knowledge of VMware ESXi and Microsoft Hyper-V\n- Hands-on experience with test planning, topology planning, requirement-to-testcase mapping, test case writing, defect logging and tracking, and excellent debugging skills\n- Good knowledge of testing methodologies, different testing types and overall product life-cycle\n- IEEE 802.1 (Bridging, VLAN, STP, MAC Security, LLDP, AVB)\n- L2/L3 Features (TCP/IP, VRRP, IGMP, IPv4, IPv6, ICMP, ICMPv6, ARP), Basic understanding of IS-IS\n- Network Management and Monitoring (SNMP, SFLOW, Netflow, RMON, ERSPAN)\n- DHCP, DNS, SSH, RADIUS, TACACS, LDAP, IPSec, CA\n- Network Security and Management features - NetLogin, AAA, IPSec, Firewalls, SSL, SNMP MIB\n- Unix/Linux and Windows environments\n\n**Test Automation:**\n\n- Proficiency in Selenium or similar web automation frameworks for automated functional testing\n- API Test Automation experience using tools such as Postman or similar tools\n- Performance and Load Testing automation using tools like JMeter, LoadRunner or equivalent for scalability and performance validation\n- Strong scripting capabilities in Python/Golang and/or Shell scripting (Bash/PowerShell) for test automation, tool development and utility creation\n- Automation of end-to-end solution validation, integrated for seamless, continuous testing.\n- Knowledge of test data management and automation best practices\n\n**General Skills:**\n\n- Good Analytical and Communication Skills\n- Strong problem-solving abilities with attention to detail\n\n#### Added Advantages:\n\n- ISTQB, Cloud Practitioner, Network+, CWNA and CCNA certification\n- Hands on experience with AI-assisted test-case generation and test case automation",
+      "source": "FreeHire",
+      "work_mode": "hybrid",
+      "skills": [
+        "ai",
+        "api",
+        "automation",
+        "bash",
+        "ccna",
+        "cloud",
+        "dhcp",
+        "dns",
+        "firewall",
+        "go",
+        "hyper-v",
+        "ipsec",
+        "jmeter",
+        "ldap",
+        "linux",
+        "network-security",
+        "networking",
+        "postman",
+        "powershell",
+        "python",
+        "selenium",
+        "snmp",
+        "ssh",
+        "ssl",
+        "tcp-ip",
+        "test-automation",
+        "unix",
+        "vlan",
+        "vmware",
+        "wireshark"
+      ]
+    },
+    "analysis": {
+      "match_score": 45,
+      "fit_level": "low",
+      "experience_fit": "Candidate has 3 years of automation experience but lacks the required telecom/data networking and network security domain experience.",
+      "location_fit": "Candidate is based in India and lists Bengaluru as a preferred location; Bangalore is within the preferred region but no explicit confirmation of current residence.",
+      "work_mode": "hybrid",
+      "matching_skills": [
+        "Python",
+        "PowerShell",
+        "Bash",
+        "Selenium",
+        "Postman",
+        "Linux",
+        "Windows",
+        "scripting",
+        "test automation"
+      ],
+      "transferable_skills": [
+        "endpoint automation",
+        "troubleshooting automation",
+        "data analysis",
+        "automation framework development"
+      ],
+      "missing_skills": [
+        "network protocols (DHCP, DNS, IPsec, VLAN, etc.)",
+        "traffic generators (Ixia/Spirent)",
+        "VMware ESXi",
+        "Microsoft Hyper‑V",
+        "network debugging tools (Wireshark, ping, traceroute)",
+        "SNMP, Netflow, sFlow, RMON, ERSPAN",
+        "network management and monitoring",
+        "performance/load testing tools (JMeter, LoadRunner)",
+        "network security features (AAA, RADIUS, TACACS, LDAP)",
+        "network OS concepts",
+        "network testing methodologies (topology planning, requirement‑to‑testcase mapping)",
+        "certifications (ISTQB, CCNA, CWNA, etc.)"
+      ],
+      "hard_requirements": [
+        "B.E./B.Tech. in CS/ECE/TCE/EEE or MS in Computer Science",
+        "2-4 years of relevant industry experience in Telecom/Data Networking and Network Security",
+        "2+ years of hands‑on test automation experience using modern frameworks and tools"
+      ],
+      "hard_requirement_gaps": [
+        "Domain experience in Telecom/Data Networking and Network Security"
+      ],
+      "experience_requirement": "2-4 years in Telecom/Data Networking and Network Security",
+      "experience_gap": "Candidate does not have documented experience in telecom/networking or network security domains.",
+      "key_risks": [
+        "Significant domain mismatch",
+        "Missing network‑specific tools and knowledge",
+        "Lack of required certifications",
+        "Potential inability to design and execute network‑level test cases"
+      ],
+      "why_it_matches": [
+        "Strong automation background with Python, PowerShell, Bash, Selenium, and Postman",
+        "Experience building test frameworks and scripts",
+        "Proficiency in Linux and Windows environments",
+        "Solid scripting and test automation skills"
+      ],
+      "why_it_may_not_match": [
+        "No evidence of telecom or networking experience",
+        "No exposure to traffic generators, VMware ESXi, Hyper‑V, or network debugging tools",
+        "Missing knowledge of network protocols and security features",
+        "No certifications that are listed as added advantages"
+      ],
+      "application_priority": "low",
+      "summary": "The candidate possesses solid automation and scripting skills that align with the test automation aspects of the role. However, the lack of telecom/networking domain experience and missing network‑specific tools and knowledge represent a significant gap relative to the hard requirements. Consequently, the fit is low and the application priority is low."
+    }
+  },
+  {
+    "job": {
+      "id": "software-engineer-java-go-python-automation-cloud-aws-or-gcp-or-azure-kubernetes-dockers-7-to-10-years-bangalore-cisco-4lwiuw6n",
+      "title": "Software Engineer | Java/Go , Python Automation, Cloud (AWS or GCP or Azure), Kubernetes, Dockers | 7 to 10 Years | Bangalore",
+      "company": "Cisco",
+      "location": "Bangalore, India",
+      "date": "2026-09-29T00:00:00Z",
+      "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bangalore-India/Software-Engineer---Java-Go---Python-Automation--Cloud--AWS-or-GCP-or-Azure---Kubernetes--Dockers---7-to-10-Years---Bangalore_2023387-1?utm_source=freehire.me",
+      "description": "**Who we are**\n\nCisco Identity Services Engine (ISE) is an identity-based access control policy platform that enables enterprises to enforce compliance, improve infrastructure security and streamline their service operations in any environment—wired, wireless or VPN. Its outstanding architecture allows enterprises to gather real time contextual information from network, users, and devices to make proactive governance decisions by tying identity back into various network elements including access switches, wireless controllers, VPN gateways, and data center switches. The identity services engine team is a group of high energy, customer focused engineers who bring diverse perspectives and experiences to bear on the toughest engineering challenges. The candidate will play a key role for the ISE product development and maintenance which requires extensive collaboration with multiple cross functional cross geographical agile scrum teams:\n\n**Your Impact**\n\nDevelop, Enhance ISE platform features, platform built on Cisco UCS hardware and Linux software. Debug, troubleshoot and resolve ISE platform related customer issues. In addition develop software on Cisco Access manager cloud platform and provide debugging and troubleshooting support.\n\n· Advanced experienced professional using standard methodologies and knowledge of internal or external business issues to improve products or services.\n\n· Works independently but receives minimal guidance and direction from leader then determines best approach to accomplish work.\n\n· Understands project and/or department needs and establishes relationships with appropriate multi-functional stakeholders to gather input, collect information and complete work steps.\n\n· Will lead projects from end-to-end through delegation, review, and getting results holistically.\n\n· Identifies and recommends improvements to the software development lifecycle and standard processes in agile engineering.\n\n· Leads delivery of high-quality design of features and deliverables.\n\n· Finds opportunities for multiple products to work together to build value for customers.\n\n· Integrates product sense as it relates to design of the product (market awareness, production adoption, competition) and tracks related metrics.\n\n· Writes functional clean code and unit tests with no guidance.\n\n· Maintains and enhances solutions by fixing complicated errors, raising risks, and advancing issues where necessary.\n\n· Identifies immediate and larger scope problems through thorough code reviews.\n\n· Tests and reviews code to optimize scale, velocity, and reliability of deliverables.\n\n· Monitors the production environment and works multi-functionally to identify problems and track production systems.\n\n· Shares knowledge across teams, both informally and formally (e.g., ad-hoc basis, internal presentations, blogs, newsletters).\n\n· Coordinates across teams to estimate times and complete projects according to specification and user requirements.\n\n· Tracks achievements, progress and provides ongoing updates and remediation plans to cross-functional partners.\n\n· Mentors peers or more junior team members. Assists other engineers through code reviews, documentation, and technical guidance.\n\n**Minimum Qualifications:**\n\n· Bachelors + 7 years of related experience OR Masters + 4 years of related experience OR PhD + 1 year of related experience.\n\n· Strong hands on Experience into Java applications, Golang development , and cloud applications majorly into AWS\n\n· Should have knowledge on python for automation\n\n· Should have good understanding/working knowledge into Microservices architecture and Kubernetes\n\n· Requires solid conceptual and practical knowledge in application development. Networking knowledge related to security or network management is preferred.\n\n# Why Cisco?\n\nAt Cisco, we’re revolutionizing how data and infrastructure connect and protect organizations in the AI era – and beyond. We’ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you’ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\n\nWe are Cisco, and our power starts with you.\n\n**Disclaimer**\n\nTo ensure that we hire the best talent in the right way, we follow a strict hiring process and recently, Cisco has been made aware of fraudulent recruiters claiming to be from the company. Please be advised that any communication from Cisco about careers will:\n\n- be in direct response to an application you have submitted through the company career site\n- begin with screening or an interview\n- originate from a Cisco email address, and\n- be conducted across email, phone, or WebEx\n\nCisco will never make a job offer without conducting an interview process or ask you for money in any way. If you have been requested to apply for a role or have received an offer from a site other than or cisco.wd5.myworkday.com, do not provide any personal identifying information, including your Aadhaar or other personal identifying number, birth certificate, banking information, driver's license, or passport.\n\nIf you are the target of a recruiting scam, consider filing a report with your local law enforcement authorities. Cisco bears no responsibility, and cannot be held liable, for any claims, damages, expenses, or other inconvenience resulting from or in any way connected to recruiting scams.",
+      "source": "FreeHire",
+      "work_mode": null,
+      "skills": [
+        "agile",
+        "ai",
+        "automation",
+        "aws",
+        "cisco",
+        "cloud",
+        "go",
+        "java",
+        "kubernetes",
+        "linux",
+        "microservices",
+        "networking",
+        "python",
+        "scrum",
+        "vpn"
+      ]
+    },
+    "analysis": {
+      "match_score": 20,
+      "fit_level": "low",
+      "experience_fit": "Candidate has approximately 3 years of experience, while the role requires 7 years of related experience (Bachelor) or 4 years with a Master’s degree.",
+      "location_fit": "Candidate is based in India and has expressed interest in Bangalore; location is potentially acceptable but not confirmed.",
+      "work_mode": "Unclear",
+      "matching_skills": [
+        "Python",
+        "Linux",
+        "Automation",
+        "Scripting",
+        "Endpoint troubleshooting",
+        "Windows",
+        "macOS"
+      ],
+      "transferable_skills": [
+        "PowerShell",
+        "Bash",
+        "C#",
+        "JavaScript",
+        "Git",
+        "Data analysis (Pandas, NumPy)",
+        "Selenium",
+        "Playwright"
+      ],
+      "missing_skills": [
+        "Java",
+        "Go",
+        "AWS",
+        "Kubernetes",
+        "Microservices architecture",
+        "Networking (security/network management)",
+        "Cloud application development",
+        "Docker"
+      ],
+      "hard_requirements": [
+        "Bachelor's degree + 7 years of related experience OR Master's + 4 years of related experience",
+        "Strong hands‑on experience in Java applications",
+        "Strong hands‑on experience in Golang development",
+        "Experience with cloud applications majorly into AWS",
+        "Knowledge of Python for automation",
+        "Good understanding of microservices architecture and Kubernetes",
+        "Networking knowledge related to security or network management (preferred)"
+      ],
+      "hard_requirement_gaps": [
+        "Experience years (needs 7 years, candidate has ~3)",
+        "Java experience",
+        "Go experience",
+        "AWS experience",
+        "Kubernetes experience",
+        "Microservices architecture experience",
+        "Networking knowledge"
+      ],
+      "experience_requirement": "Bachelor's + 7 years of related experience OR Master's + 4 years of related experience",
+      "experience_gap": "Candidate has ~3 years; missing 4–7 years depending on degree path.",
+      "key_risks": [
+        "Significant experience gap",
+        "Missing core programming languages (Java, Go)",
+        "Missing cloud and container technologies (AWS, Kubernetes)",
+        "Missing microservices and networking knowledge"
+      ],
+      "why_it_matches": [
+        "Proficient in Python and automation, aligning with the job’s mention of Python for automation",
+        "Experience with Linux environments and scripting",
+        "Strong endpoint troubleshooting and automation background"
+      ],
+      "why_it_may_not_match": [
+        "Does not meet the required years of experience",
+        "Lacks Java and Go development experience",
+        "No demonstrated AWS or Kubernetes expertise",
+        "No explicit microservices or networking experience"
+      ],
+      "application_priority": "low",
+      "summary": "The candidate’s skill set overlaps with some of the job’s automation and Linux requirements, but there is a substantial mismatch in required experience, core programming languages, cloud, container, and networking technologies. The role is unlikely to be a good fit."
+    }
+  },
+  {
+    "job": {
+      "id": "sr-software-development-engineer-python-automation-kubernetes-networking-zscaler-bsmkb3nw",
+      "title": "Sr. Software Development Engineer - Python Automation / Kubernetes / Networking",
+      "company": "Zscaler",
+      "location": "Bangalore, IND",
+      "date": "2026-09-29T12:38:13Z",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5128594007?utm_source=freehire.me",
+      "description": "Zscaler (NASDAQ: ZS) accelerates digital transformation so customers can be more agile, efficient, resilient, and secure. The Zscaler Zero Trust Exchange™️ platform protects thousands of customers from cyberattacks and data loss by securely connecting users, devices, and applications in any location. Distributed across 160+ public exchanges globally and thousands of private exchanges at the edge, the SASE-based Zero Trust Exchange is the world’s largest in-line cloud security platform.\n\nWe believe the future of work is Human + AI and are building an AI-native enterprise where human potential is amplified by machine intelligence to solve the world’s hardest security challenges. Driven by deep customer obsession, we are committed to the mission, outcome, and to each other. We bring these commitments to life through three core behaviors: ownership and collaboration, trust through outcomes and impact, and a challenge culture with ongoing feedback. Ready to make an impact at the company pioneering security transformation in the AI era? Join us at Zscaler.\n\n**Role**\n\nWe are looking for a Senior Software Development Engineer to join our Platform & Reliability Engineering department in Bangalore, reporting to the Director of Platform & Reliability Engineering. In this role, you will play a key role in ensuring the quality, scalability, and reliability of ZDX solutions. You will lead automation initiatives to build robust frameworks, validate feature functionality, optimize system performance, and champion an AI-first approach to development. This is an exciting opportunity to contribute to cloud-based systems that process large volumes of data while delivering world-class user experiences.\n\n**What you’ll do (Role Expectations)**\n\n- Design and develop scalable, reusable, and maintainable test automation frameworks using an AI-first development methodology\n- Develop and execute end-to-end tests to ensure seamless operation of ZDX components, including cloud services, analytics dashboards, APIs, and user-facing applications\n- Collaborate with engineering and DevOps teams to integrate testing pipelines into CI/CD workflows, ensuring faster release cycles without compromising quality\n- Utilize analytics tools, logs, and testing outputs to identify bottlenecks and troubleshoot issues systematically\n- Continuously refine testing methodologies to improve coverage, detect issues earlier, and maximize efficiency\n\n**Who You Are (Success Profile)**\n\n- You thrive in ambiguity. You're comfortable building the path as you walk it. You thrive in a dynamic environment, seeing ambiguity not as a hindrance, but as the raw material to build something meaningful.\n- You act like an owner. Your passion for the mission fuels your bias for action. You operate with integrity because you genuinely care about the outcome. True ownership involves leveraging dynamic range: the ability to navigate seamlessly between high-level strategy and hands-on execution.\n- You are a problem-solver. You love running towards the challenges because you are laser-focused on finding the solution, knowing that solving the hard problems delivers the biggest impact.\n- You are a high-trust collaborator. You are ambitious for the team, not just yourself. You embrace our challenge culture by giving and receiving ongoing feedback—knowing that candor delivered with clarity and respect is the truest form of teamwork and the fastest way to earn trust.\n- You are a learner. You have a true growth mindset and are obsessed with your own development, actively seeking feedback to become a better partner and a stronger teammate. You love what you do and you do it with purpose.\n\n**What We’re Looking for (Minimum Qualifications)**\n\n- Foundational understanding of AI/ML technologies and experience leveraging, securing, or positioning AI-driven solutions to optimize outcomes within your functional domain\n- 4+ years of experience in automation testing, preferably within cloud or SaaS environments\n- Proficiency in programming languages such as Python, Java, or JavaScript for building automation and testing solutions, alongside familiarity with testing tools and performance analysis\n- Experience with cloud platforms including AWS, Azure, or Google Cloud alongside containerization technologies like Docker and Kubernetes\n- Experience integrating testing workflows into CI/CD pipelines using tools such as Jenkins, GitLab CI, or similar systems\n\n**What Will Make You Stand Out (Preferred Qualifications)**\n\n- Experience leveraging AI coding assistants, automated code review tooling, or LLM-assisted development workflows to optimize software architecture and accelerate delivery cycles\n- Good understanding of data platforms, SQL, and ETL frameworks to support scalable data ingestion, transformation, and querying\n- Solid understanding of networking protocols, diagnostic tools like Wireshark or TCPDump\n\n#LI-Hybrid #LI-AN4\n\nAt Zscaler, we are committed to building a team that reflects the communities we serve and the customers we work with. We foster an inclusive environment that values all backgrounds and perspectives, emphasizing collaboration and belonging. Join us in our mission to make doing business seamless and secure.\n\nOur Benefits program is one of the most important ways we support our employees. Zscaler proudly offers comprehensive and inclusive benefits to meet the diverse needs of our employees and their families throughout their life stages, including:\n\n- Various health plans\n- Time off plans for vacation and sick time\n- Parental leave options\n- Retirement options\n- Education reimbursement\n- In-office perks, and more!\n\nLearn more about Zscaler's hybrid working model and benefits here.\n\nBy applying for this role, you adhere to applicable laws, regulations, and Zscaler policies, including those related to security and privacy standards and guidelines.\n\nZscaler is committed to providing equal employment opportunities to all individuals. We strive to create a workplace where employees are treated with respect and have the chance to succeed. All qualified applicants will be considered for employment without regard to race, color, religion, sex (including pregnancy or related medical conditions), age, national origin, sexual orientation, gender identity or expression, genetic information, disability status, protected veteran status, or any other characteristic protected by federal, state, or local laws. *See more information by clicking on the Know Your Rights: Workplace Discrimination is Illegal link.*\n\nPay Transparency\n\nZscaler complies with all applicable federal, state, and local pay transparency rules.\n\nZscaler is committed to providing reasonable support (called accommodations or adjustments) in our recruiting processes for candidates who are differently abled, have long term conditions, mental health conditions or sincerely held religious beliefs, or who are neurodivergent or require pregnancy-related support.",
+      "source": "FreeHire",
+      "work_mode": "hybrid",
+      "skills": [
+        "agile",
+        "ai",
+        "analytics",
+        "api",
+        "automation",
+        "aws",
+        "azure",
+        "ci-cd",
+        "cloud",
+        "cloud-security",
+        "containerization",
+        "data-ingestion",
+        "devops",
+        "docker",
+        "etl",
+        "gcp",
+        "gitlab",
+        "java",
+        "javascript",
+        "jenkins",
+        "kubernetes",
+        "llm",
+        "machine-learning",
+        "networking",
+        "python",
+        "saas",
+        "sase",
+        "sql",
+        "test-automation",
+        "wireshark",
+        "zero-trust"
+      ]
+    },
+    "analysis": {
+      "match_score": 25,
+      "fit_level": "low",
+      "experience_fit": "Candidate has 3 years of professional experience, 1 year short of the 4+ year requirement for automation testing.",
+      "location_fit": "Bangalore, India – matches candidate’s preferred location.",
+      "work_mode": "Hybrid – compatible with candidate’s profile.",
+      "matching_skills": [
+        "Python",
+        "PowerShell",
+        "Bash",
+        "C#",
+        "Selenium",
+        "Windows",
+        "macOS",
+        "Linux",
+        "Git",
+        "Shell scripting",
+        "Data analysis (Pandas, NumPy)",
+        "Automation (endpoint, troubleshooting, silent installers)"
+      ],
+      "transferable_skills": [
+        "JavaScript",
+        "Flask",
+        "HTML/CSS",
+        "Bootstrap",
+        "Postman",
+        "Git",
+        "Data analytics",
+        "MySQL",
+        "MongoDB",
+        "Metadata-driven pipelines"
+      ],
+      "missing_skills": [
+        "CI/CD pipeline integration (Jenkins, GitLab CI, etc.)",
+        "Containerization (Docker, Kubernetes)",
+        "Cloud platform experience (AWS, Azure, GCP)",
+        "Networking protocols and diagnostic tools (Wireshark, TCPDump)",
+        "AI/ML foundational knowledge",
+        "LLM-assisted development",
+        "Test automation frameworks for cloud/SaaS environments",
+        "API development and integration"
+      ],
+      "hard_requirements": [
+        "4+ years of automation testing experience",
+        "Experience with cloud platforms (AWS, Azure, GCP)",
+        "Containerization technologies (Docker, Kubernetes)",
+        "CI/CD pipeline integration (Jenkins, GitLab CI, etc.)",
+        "Proficiency in Python, Java, or JavaScript for automation/testing",
+        "Foundational AI/ML understanding"
+      ],
+      "hard_requirement_gaps": [
+        "Automation testing experience (candidate has automation but not test automation)",
+        "Cloud platform experience",
+        "Containerization experience",
+        "CI/CD pipeline experience",
+        "AI/ML foundational knowledge"
+      ],
+      "experience_requirement": "4+ years in automation testing, preferably in cloud or SaaS environments.",
+      "experience_gap": "Candidate has approximately 3 years of experience, 1 year short of the required minimum.",
+      "key_risks": [
+        "Missing mandatory automation testing experience",
+        "Lack of cloud and containerization expertise",
+        "No CI/CD pipeline integration experience",
+        "No AI/ML or networking protocol knowledge",
+        "Potential mismatch with senior-level responsibilities"
+      ],
+      "why_it_matches": [
+        "Strong automation background across Windows, macOS, and Linux",
+        "Proficiency in Python, PowerShell, Bash, and C#",
+        "Experience with Selenium for browser automation",
+        "Data analysis skills using Pandas and NumPy",
+        "Cross-platform scripting and endpoint remediation experience"
+      ],
+      "why_it_may_not_match": [
+        "Insufficient years of automation testing experience",
+        "No demonstrated experience with cloud platforms or containerization",
+        "No CI/CD pipeline integration experience",
+        "No AI/ML or networking protocol expertise",
+        "Job requires senior-level responsibilities that may exceed candidate’s current experience level"
+      ],
+      "application_priority": "low",
+      "summary": "The candidate’s automation and scripting expertise aligns with some aspects of the role, but significant gaps exist in mandatory requirements such as automation testing experience, cloud and containerization knowledge, CI/CD pipeline integration, and AI/ML foundations. The overall fit is low, and the candidate would need to acquire additional experience in these areas to be competitive for this senior position."
+    }
+  },
+  {
+    "job": {
+      "id": "test-automation-engineer-networking-background-is-a-must-jobgether-4v544vne",
+      "title": "Test Automation Engineer- Networking background is a must",
+      "company": "jobgether",
+      "location": "India",
+      "date": "2026-09-30T04:24:14Z",
+      "url": "https://jobs.lever.co/jobgether/2cce602b-5658-4fb0-9651-4599f4351e24?utm_source=freehire.me",
+      "description": "**This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Test Automation Engineer – Networking background is a must based in India.**\n\nThis role is an opportunity to combine software engineering, test automation, networking, and cybersecurity in a product-focused environment. You’ll take end-to-end ownership of testing strategies for assigned components and help ensure reliable, high-quality security software releases. The position involves building scalable automation and test tools while also contributing to backend services, web applications, databases, and cloud or virtualized environments. You’ll work with technologies including Python, Django, Flask, Vue.js, PostgreSQL, and OpenStack or similar platforms. Strong networking knowledge is essential, with practical exposure to TCP/IP, routing, switching, and firewall technologies highly relevant to the role. You’ll collaborate across engineering teams to troubleshoot complex issues, improve product quality, and strengthen testing practices.\n\n### Accountabilities:\n\n- Design, develop, maintain, and scale automated testing solutions and test tools for security and networking products.\n- Take end-to-end ownership of test strategy for assigned product components and contribute to the quality of software releases.\n- Develop and maintain backend services and automation utilities using Python, with Django and Flask where applicable.\n- Contribute to API development, system integrations, debugging, and application performance improvements.\n- Work with Vue.js applications to implement features, troubleshoot issues, and optimize frontend components.\n- Design and optimize PostgreSQL databases, including schemas, complex SQL queries, performance tuning, data integrity, and scalability.\n- Support development, testing, and deployment activities in cloud and virtualized environments such as OpenStack or comparable platforms.\n- Investigate complex technical issues, identify root causes, and implement robust fixes and automated regression coverage.\n- Apply networking and cybersecurity knowledge when testing firewall and security functionality, including relevant TCP/IP, routing, and switching scenarios.\n- Collaborate with engineering and cross-functional teams to improve test coverage, automation scalability, product reliability, and development workflows.\n  \n  ## Requirements:\n  \n  - Strong professional experience developing applications and automation solutions using Python.\n  - Hands-on experience with Django and Flask and a solid understanding of modern web application architectures.\n  - **Strong networking fundamentals are essential**, including TCP/IP, routing, switching, and firewall technologies.\n  - Practical understanding of firewall products, security testing, and cybersecurity concepts is highly valuable.\n  - Experience working with PostgreSQL, including database design, SQL development, query optimization, and performance tuning.\n  - Working knowledge of Vue.js and the ability to troubleshoot and optimize frontend applications.\n  - Experience with cloud, virtualization, or simulation environments such as OpenStack or similar technologies.\n  - Strong problem-solving, debugging, troubleshooting, and analytical skills.\n  - Ability to take ownership of technical challenges, work independently, and collaborate effectively with engineering teams.\n  - Experience with Ruby on Rails is a plus.\n  - A B.E., B.Tech., M.Tech., or equivalent degree in Computer Science, Information Technology, or a related technical discipline.\n  - Candidates should be comfortable working from Pune; relocation may be required for candidates currently based elsewhere.\n    \n    ## Benefits:\n    \n    - Opportunity to work on cybersecurity and networking technologies used across global markets.\n    - Hands-on exposure to firewall testing, security engineering, automation, backend development, cloud, and virtualization technologies.\n    - Opportunity to build scalable automation frameworks and influence software quality and release processes.\n    - Collaborative engineering environment with opportunities to work across backend, frontend, database, infrastructure, and security domains.\n    - Career development opportunities in a technically challenging cybersecurity environment.\n    - Competitive compensation aligned with experience and skills.\n    - Pune-based working opportunity with remote/flexible arrangements subject to the role’s working model.\n    - Inclusive workplace committed to providing equal opportunities to qualified candidates.\n\n**How Jobgether works:**\n\nWe use an **AI-powered matching process** to ensure your application is reviewed quickly, objectively, and fairly against the role's core requirements. Our system identifies the top-fitting candidates, and this shortlist is then shared directly with the hiring company. The final decision and next steps (interviews, assessments) are managed by their internal team.\n\nWe appreciate your interest and wish you the best!\n\nWhy Apply Through Jobgether?\n\n**Data Privacy Notice:** By submitting your application, you acknowledge that Jobgether will process your personal data to evaluate your candidacy and share relevant information with the hiring employer. This processing is based on legitimate interest and pre-contractual measures under applicable data protection laws (including GDPR). You may exercise your rights (access, rectification, erasure, objection) at any time.\n\n#LI-CL1",
+      "source": "FreeHire",
+      "work_mode": "remote",
+      "skills": [
+        "ai",
+        "api",
+        "automation",
+        "cloud",
+        "cybersecurity",
+        "django",
+        "firewall",
+        "flask",
+        "gdpr",
+        "networking",
+        "openstack",
+        "postgresql",
+        "python",
+        "rails",
+        "ruby",
+        "sql",
+        "tcp-ip",
+        "test-automation",
+        "virtualization",
+        "vue"
+      ]
+    },
+    "analysis": {
+      "match_score": 25,
+      "fit_level": "low",
+      "experience_fit": "Candidate has 3 years of experience in Python automation and scripting, but lacks the specialized networking, database, frontend, cloud, and security testing experience required for this role.",
+      "location_fit": "India (remote) – matches candidate's location preference.",
+      "work_mode": "remote – matches candidate's preferred work mode.",
+      "matching_skills": [
+        "Python",
+        "Flask",
+        "Automation",
+        "Scripting",
+        "Windows",
+        "macOS",
+        "Linux",
+        "Selenium",
+        "Git",
+        "Bash",
+        "PowerShell",
+        "C#",
+        "JavaScript",
+        "Data analysis"
+      ],
+      "transferable_skills": [
+        "Python automation",
+        "Endpoint automation",
+        "Troubleshooting automation",
+        "Silent installers",
+        "One-click troubleshooters",
+        "Metadata-driven pipelines",
+        "Data analytics",
+        "Pandas",
+        "NumPy",
+        "Power BI",
+        "MySQL",
+        "MongoDB"
+      ],
+      "missing_skills": [
+        "Django",
+        "Networking fundamentals (TCP/IP, routing, switching, firewall)",
+        "PostgreSQL (database design, SQL development, performance tuning)",
+        "Vue.js",
+        "Cloud/virtualization (OpenStack or similar)",
+        "Security testing and cybersecurity concepts",
+        "Backend services development",
+        "API development",
+        "Database performance tuning",
+        "Ruby on Rails"
+      ],
+      "hard_requirements": [
+        "Python automation",
+        "Flask",
+        "Networking fundamentals (TCP/IP, routing, switching, firewall)",
+        "PostgreSQL",
+        "Vue.js",
+        "Cloud/virtualization (OpenStack)",
+        "Security testing",
+        "Backend services",
+        "API development",
+        "Database design and performance tuning",
+        "B.Tech/B.E. in Computer Science or related field"
+      ],
+      "hard_requirement_gaps": [
+        "Networking fundamentals",
+        "PostgreSQL",
+        "Vue.js",
+        "Cloud/virtualization (OpenStack)",
+        "Security testing",
+        "Backend services",
+        "API development",
+        "Database design and performance tuning",
+        "Django",
+        "Ruby on Rails"
+      ],
+      "experience_requirement": "Strong professional experience developing applications and automation solutions using Python; hands‑on experience with Django and Flask; strong networking fundamentals; experience with PostgreSQL; working knowledge of Vue.js; experience with cloud/virtualization (OpenStack); security testing; backend services; API development; database design and performance tuning.",
+      "experience_gap": "Candidate lacks networking, PostgreSQL, Vue.js, cloud/virtualization, security testing, backend services, API development, database design, and performance tuning experience.",
+      "key_risks": [
+        "Missing networking fundamentals required for test automation of networking products",
+        "No experience with PostgreSQL or database performance tuning",
+        "No exposure to Vue.js or frontend troubleshooting",
+        "No cloud/virtualization or OpenStack experience",
+        "No security testing or firewall knowledge",
+        "No Django or Ruby on Rails experience",
+        "Potential mismatch in backend services and API development responsibilities"
+      ],
+      "why_it_matches": [
+        "Strong Python and Flask experience",
+        "Extensive automation and scripting background",
+        "Cross‑platform (Windows, macOS, Linux) automation expertise",
+        "Data analysis and pipeline development skills",
+        "Experience with Selenium for browser automation"
+      ],
+      "why_it_may_not_match": [
+        "Lack of networking fundamentals (TCP/IP, routing, switching, firewall)",
+        "No PostgreSQL database experience",
+        "No Vue.js frontend experience",
+        "No cloud/virtualization or OpenStack exposure",
+        "No security testing or cybersecurity background",
+        "No Django or Ruby on Rails experience",
+        "Missing backend services and API development experience"
+      ],
+      "application_priority": "low",
+      "summary": "Priyank Saxena brings solid Python automation, scripting, and cross‑platform expertise, but the role demands specialized networking, database, frontend, cloud, and security testing skills that are not present in the candidate’s profile. The candidate meets the location and work mode requirements but lacks several hard technical requirements, resulting in a low fit score."
+    }
+  }
+]
